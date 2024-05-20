@@ -1,0 +1,28 @@
+[2024-05-20 15:49:40,966] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 5.1-orchestration.task2_orchestator scheduled__2024-05-13T00:00:00+00:00 [queued]>
+[2024-05-20 15:49:40,981] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 5.1-orchestration.task2_orchestator scheduled__2024-05-13T00:00:00+00:00 [queued]>
+[2024-05-20 15:49:40,981] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2024-05-20 15:49:40,981] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2024-05-20 15:49:40,981] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2024-05-20 15:49:40,994] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task2_orchestator> on 2024-05-13 00:00:00+00:00
+[2024-05-20 15:49:40,997] {standard_task_runner.py:52} INFO - Started process 4128 to run task
+[2024-05-20 15:49:41,001] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', '5.1-orchestration', 'task2_orchestator', 'scheduled__2024-05-13T00:00:00+00:00', '--job-id', '99', '--raw', '--subdir', 'DAGS_FOLDER/5.1-orchestration.py', '--cfg-path', '/tmp/tmpb744hh09', '--error-file', '/tmp/tmpzv38_6vk']
+[2024-05-20 15:49:41,001] {standard_task_runner.py:80} INFO - Job 99: Subtask task2_orchestator
+[2024-05-20 15:49:41,067] {task_command.py:371} INFO - Running <TaskInstance: 5.1-orchestration.task2_orchestator scheduled__2024-05-13T00:00:00+00:00 [running]> on host c832426e9d7b
+[2024-05-20 15:49:41,129] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=5.1-orchestration
+AIRFLOW_CTX_TASK_ID=task2_orchestator
+AIRFLOW_CTX_EXECUTION_DATE=2024-05-13T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-05-13T00:00:00+00:00
+[2024-05-20 15:49:41,130] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2024-05-20 15:49:41,131] {subprocess.py:74} INFO - Running command: ['bash', '-c', "sleep 2 && echo 'Task 2'"]
+[2024-05-20 15:49:41,141] {subprocess.py:85} INFO - Output:
+[2024-05-20 15:49:43,148] {subprocess.py:92} INFO - Task 2
+[2024-05-20 15:49:43,151] {subprocess.py:96} INFO - Command exited with return code 0
+[2024-05-20 15:49:43,202] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=5.1-orchestration, task_id=task2_orchestator, execution_date=20240513T000000, start_date=20240520T154940, end_date=20240520T154943
+[2024-05-20 15:49:43,236] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-05-20 15:49:43,311] {local_task_job.py:273} INFO - 2 downstream tasks scheduled from follow-on schedule check
