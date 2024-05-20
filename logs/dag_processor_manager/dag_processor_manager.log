@@ -5533,3 +5533,1091 @@ File Path                               PID    Runtime      # DAGs    # Errors  
 [2024-05-20 16:05:03,385] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
 [2024-05-20 16:05:08,524] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
 [2024-05-20 16:05:08,527] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:13,542] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:13,546] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:18,561] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:18,564] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:20,574] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:05:03
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:05:03
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:05:03
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:05:03
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:05:03
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:05:03
+================================================================================
+[2024-05-20 16:05:23,582] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:23,585] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:28,598] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:28,602] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:33,617] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:33,620] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:38,803] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:38,808] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:43,824] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:43,827] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:48,842] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:48,846] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:50,854] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:05:33
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:05:33
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.06s           2024-05-20T16:05:33
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:05:33
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:05:33
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:05:33
+================================================================================
+[2024-05-20 16:05:53,860] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:53,864] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:05:58,878] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:05:58,883] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:03,897] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:03,901] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:09,090] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:09,098] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:14,115] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:14,124] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:19,139] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:19,142] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:21,151] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:06:03
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:06:03
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.06s           2024-05-20T16:06:04
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:06:04
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.06s           2024-05-20T16:06:04
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:06:04
+================================================================================
+[2024-05-20 16:06:24,157] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:24,160] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:29,173] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:29,176] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:34,191] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:34,195] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:39,365] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:39,368] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:44,386] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:44,390] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:49,407] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:49,412] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:51,422] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.05s           2024-05-20T16:06:34
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:06:34
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.04s           2024-05-20T16:06:34
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:06:34
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:06:34
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:06:34
+================================================================================
+[2024-05-20 16:06:54,428] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:54,431] {manager.py:693} INFO - There are 6 files in /opt/airflow/dags
+[2024-05-20 16:06:59,444] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:06:59,447] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:04,468] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:04,472] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:09,659] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:09,663] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:14,679] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:14,684] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:19,699] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:19,703] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:21,711] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:07:04
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:07:04
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.06s           2024-05-20T16:07:04
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:07:04
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:07:04
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:07:04
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.10s           2024-05-20T16:06:59
+================================================================================
+[2024-05-20 16:07:24,716] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:24,721] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:29,736] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:29,739] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:34,765] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:34,768] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:39,975] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:39,981] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:44,999] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:45,002] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:50,036] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:50,039] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:07:52,050] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:07:34
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:07:34
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:07:35
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.07s           2024-05-20T16:07:34
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:07:34
+/opt/airflow/dags/3-dependencies.py                              1           0  0.07s           2024-05-20T16:07:34
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.08s           2024-05-20T16:07:45
+================================================================================
+[2024-05-20 16:07:55,058] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:07:55,061] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:00,077] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:00,081] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:05,098] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:05,103] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:10,283] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:10,287] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:15,301] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:15,305] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:20,325] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:20,329] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:22,340] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.05s           2024-05-20T16:08:05
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:08:05
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:08:05
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:08:05
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:08:05
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:08:05
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:08:15
+================================================================================
+[2024-05-20 16:08:25,347] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:25,350] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:30,366] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:30,372] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:35,397] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:35,401] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:40,592] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:40,595] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:45,608] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:45,611] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:50,627] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:50,631] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:08:52,639] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:08:35
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:08:35
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:08:35
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:08:35
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:08:35
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:08:35
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.08s           2024-05-20T16:08:34
+================================================================================
+[2024-05-20 16:08:55,646] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:08:55,652] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:00,665] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:00,669] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:05,685] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:05,688] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:10,865] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:10,869] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:15,884] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:15,889] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:20,904] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:20,907] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:22,917] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:09:05
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:09:05
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:09:05
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:09:05
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:09:05
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:09:05
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:09:04
+================================================================================
+[2024-05-20 16:09:25,924] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:25,928] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:30,945] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:30,949] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:35,970] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:35,974] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:41,154] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:41,159] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:46,176] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:46,181] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:51,196] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:51,199] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:09:53,209] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.05s           2024-05-20T16:09:36
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:09:36
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:09:36
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:09:36
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:09:36
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:09:36
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:09:35
+================================================================================
+[2024-05-20 16:09:56,215] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:09:56,220] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:01,233] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:01,237] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:06,253] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:06,257] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:11,439] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:11,444] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:16,463] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:16,466] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:21,485] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:21,490] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:23,500] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:10:06
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:10:06
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:10:06
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:10:06
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:10:06
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:10:06
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:10:05
+================================================================================
+[2024-05-20 16:10:26,505] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:26,508] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:31,525] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:31,530] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:36,549] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:36,553] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:41,743] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:41,750] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:46,765] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:46,770] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:51,791] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:51,795] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:10:53,805] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:10:36
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:10:36
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.06s           2024-05-20T16:10:36
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:10:36
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.06s           2024-05-20T16:10:36
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:10:36
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:10:35
+================================================================================
+[2024-05-20 16:10:56,810] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:10:56,815] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:01,829] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:01,832] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:06,847] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:06,850] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:12,022] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:12,025] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:17,038] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:17,041] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:22,061] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:22,064] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:24,074] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:11:06
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:11:06
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:11:07
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:11:06
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:11:07
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:11:06
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:11:05
+================================================================================
+[2024-05-20 16:11:27,079] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:27,084] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:32,098] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:32,102] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:37,124] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:37,129] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:42,343] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:42,349] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:47,368] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:47,374] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:52,396] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:52,400] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:11:54,410] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.07s           2024-05-20T16:11:37
+/opt/airflow/dags/4-customoperator.py                            1           0  0.07s           2024-05-20T16:11:37
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.06s           2024-05-20T16:11:37
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:11:37
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.07s           2024-05-20T16:11:37
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:11:37
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:11:36
+================================================================================
+[2024-05-20 16:11:57,417] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:11:57,420] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:02,433] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:02,437] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:07,456] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:07,460] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:12,640] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:12,643] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:17,662] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:17,666] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:22,688] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:22,691] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:24,702] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:12:07
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:12:07
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:12:07
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:12:07
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:12:07
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:12:07
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:12:06
+================================================================================
+[2024-05-20 16:12:27,710] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:27,715] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:32,729] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:32,733] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:37,753] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:37,757] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:42,939] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:42,943] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:47,966] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:47,970] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:52,988] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:52,994] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:12:55,004] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:12:37
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:12:37
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:12:37
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:12:37
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:12:37
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:12:37
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.06s           2024-05-20T16:12:36
+================================================================================
+[2024-05-20 16:12:58,009] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:12:58,013] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:03,027] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:03,032] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:08,051] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:08,055] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:13,194] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:13,197] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:18,218] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:18,221] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:23,238] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:23,242] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:25,251] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:13:08
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:13:08
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:13:08
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:13:08
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.06s           2024-05-20T16:13:08
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:13:08
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.06s           2024-05-20T16:13:07
+================================================================================
+[2024-05-20 16:13:28,264] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:28,267] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:33,283] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:33,286] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:38,307] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:38,311] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:43,489] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:43,492] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:48,512] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:48,515] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:53,529] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:53,532] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:13:55,539] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:13:38
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:13:38
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:13:38
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:13:38
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:13:38
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:13:38
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:13:37
+================================================================================
+[2024-05-20 16:13:58,545] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:13:58,550] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:03,565] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:03,570] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:08,590] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:08,595] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:13,914] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:13,918] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:18,938] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:18,941] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:23,955] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:23,959] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:25,968] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.12s           2024-05-20T16:14:08
+/opt/airflow/dags/4-customoperator.py                            1           0  0.10s           2024-05-20T16:14:08
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.10s           2024-05-20T16:14:08
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.08s           2024-05-20T16:14:08
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.10s           2024-05-20T16:14:08
+/opt/airflow/dags/3-dependencies.py                              1           0  0.09s           2024-05-20T16:14:08
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:14:07
+================================================================================
+[2024-05-20 16:14:28,974] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:28,978] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:33,992] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:33,995] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:39,016] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:39,022] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:44,204] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:44,208] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:49,230] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:49,233] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:54,250] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:54,254] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:14:56,263] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.05s           2024-05-20T16:14:39
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:14:39
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:14:39
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:14:39
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:14:39
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:14:39
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:14:38
+================================================================================
+[2024-05-20 16:14:59,268] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:14:59,271] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:04,287] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:04,290] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:09,310] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:09,312] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:14,502] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:14,506] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:19,522] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:19,526] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:24,541] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:24,546] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:26,557] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:15:09
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:15:09
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:15:09
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:15:09
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.06s           2024-05-20T16:15:09
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:15:09
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.06s           2024-05-20T16:15:08
+================================================================================
+[2024-05-20 16:15:29,563] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:29,567] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:34,580] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:34,585] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:39,602] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:39,606] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:44,792] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:44,796] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:49,815] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:49,818] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:54,832] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:54,836] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:15:56,845] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:15:39
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:15:39
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:15:39
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:15:39
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.06s           2024-05-20T16:15:39
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:15:39
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:15:38
+================================================================================
+[2024-05-20 16:15:59,850] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:15:59,852] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:04,869] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:04,872] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:09,889] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:09,895] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:15,095] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:15,101] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:20,122] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:20,128] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:25,144] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:25,147] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:27,155] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:16:09
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:16:09
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:16:10
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:16:10
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.07s           2024-05-20T16:16:10
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:16:10
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.06s           2024-05-20T16:16:08
+================================================================================
+[2024-05-20 16:16:30,161] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:30,167] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:35,180] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:35,185] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:40,204] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:40,208] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:45,384] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:45,390] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:50,407] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:50,412] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:55,426] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:16:55,429] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:16:57,438] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.05s           2024-05-20T16:16:40
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:16:40
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:16:40
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:16:40
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:16:40
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:16:40
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:16:39
+================================================================================
+[2024-05-20 16:17:00,443] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:00,448] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:05,464] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:05,470] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:10,489] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:10,493] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:15,672] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:15,678] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:20,694] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:20,698] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:25,711] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:25,714] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:27,723] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:17:10
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:17:10
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:17:10
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:17:10
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:17:10
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:17:10
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:17:09
+================================================================================
+[2024-05-20 16:17:30,730] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:30,733] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:35,749] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:35,753] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:40,772] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:40,776] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:45,979] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:45,982] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:51,002] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:51,005] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:56,022] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:17:56,024] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:17:58,033] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.07s           2024-05-20T16:17:40
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:17:40
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:17:41
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:17:40
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.06s           2024-05-20T16:17:40
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:17:40
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:17:39
+================================================================================
+[2024-05-20 16:18:01,040] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:01,043] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:06,059] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:06,062] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:11,084] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:11,087] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:16,272] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:16,275] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:21,297] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:21,301] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:26,318] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:26,323] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:28,334] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:18:11
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:18:11
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:18:11
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:18:11
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:18:11
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:18:11
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.06s           2024-05-20T16:18:10
+================================================================================
+[2024-05-20 16:18:31,342] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:31,346] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:36,359] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:36,364] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:41,385] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:41,389] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:46,566] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:46,569] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:51,585] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:51,590] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:56,605] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:18:56,610] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:18:58,619] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:18:41
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:18:41
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.06s           2024-05-20T16:18:41
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:18:41
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:18:41
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:18:41
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:18:40
+================================================================================
+[2024-05-20 16:19:01,624] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:01,628] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:06,642] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:06,646] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:11,663] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:11,666] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:16,846] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:16,850] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:21,868] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:21,873] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:26,891] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:26,894] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:28,903] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:19:11
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:19:11
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:19:11
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:19:11
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:19:11
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:19:11
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.06s           2024-05-20T16:19:10
+================================================================================
+[2024-05-20 16:19:31,909] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:31,914] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:36,930] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:36,934] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:41,951] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:41,955] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:47,197] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:47,200] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:52,218] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:52,222] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:57,234] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:19:57,237] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:19:59,248] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.08s           2024-05-20T16:19:42
+/opt/airflow/dags/4-customoperator.py                            1           0  0.08s           2024-05-20T16:19:42
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.08s           2024-05-20T16:19:42
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:19:42
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.07s           2024-05-20T16:19:42
+/opt/airflow/dags/3-dependencies.py                              1           0  0.08s           2024-05-20T16:19:42
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.07s           2024-05-20T16:19:41
+================================================================================
+[2024-05-20 16:20:02,255] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:02,258] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:07,273] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:07,276] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:12,306] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:12,311] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:17,440] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:17,444] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:22,464] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:22,468] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:27,486] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:27,490] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:29,501] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:20:12
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:20:12
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:20:12
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:20:12
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:20:12
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:20:12
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:20:11
+================================================================================
+[2024-05-20 16:20:32,509] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:32,513] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:37,527] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:37,531] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:42,548] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:42,552] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:47,748] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:47,758] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:52,778] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:52,782] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:57,797] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:20:57,801] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:20:59,810] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.07s           2024-05-20T16:20:42
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:20:42
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.06s           2024-05-20T16:20:42
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:20:42
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.06s           2024-05-20T16:20:42
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:20:42
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:20:41
+================================================================================
+[2024-05-20 16:21:02,815] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:02,820] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:07,835] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:07,838] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:12,855] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:12,861] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:18,020] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:18,026] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:23,043] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:23,046] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:28,064] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:28,067] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:30,078] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:21:12
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:21:12
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:21:13
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.07s           2024-05-20T16:21:13
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.06s           2024-05-20T16:21:13
+/opt/airflow/dags/3-dependencies.py                              1           0  0.07s           2024-05-20T16:21:12
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:21:11
+================================================================================
+[2024-05-20 16:21:33,083] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:33,088] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:38,102] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:38,105] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:43,125] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:43,131] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:48,308] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:48,312] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:53,324] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:53,327] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:21:58,341] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:21:58,344] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:00,353] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.05s           2024-05-20T16:21:43
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:21:43
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:21:43
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:21:43
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:21:43
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:21:43
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.07s           2024-05-20T16:21:42
+================================================================================
+[2024-05-20 16:22:03,359] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:03,365] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:08,378] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:08,382] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:13,399] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:13,404] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:18,582] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:18,586] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:23,598] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:23,601] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:28,615] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:28,620] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:30,630] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:22:13
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:22:13
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:22:13
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:22:13
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:22:13
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:22:13
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:22:12
+================================================================================
+[2024-05-20 16:22:33,637] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:33,640] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:38,653] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:38,659] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:43,678] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:43,682] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:48,864] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:48,870] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:53,886] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:53,889] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:22:58,907] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:22:58,910] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:00,919] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:22:43
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:22:43
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:22:43
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:22:43
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:22:43
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:22:43
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:22:42
+================================================================================
+[2024-05-20 16:23:03,926] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:03,930] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:08,944] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:08,947] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:13,965] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:13,969] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:19,152] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:19,157] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:24,173] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:24,177] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:29,191] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:29,196] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:31,209] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:23:14
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:23:14
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:23:14
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:23:14
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:23:14
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:23:14
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:23:13
+================================================================================
+[2024-05-20 16:23:34,216] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:34,220] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:39,237] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:39,240] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:44,258] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:44,261] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:49,389] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:49,393] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:54,409] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:54,412] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:23:59,429] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:23:59,434] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:01,444] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:23:44
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:23:44
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:23:44
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:23:44
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:23:44
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:23:44
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:23:43
+================================================================================
+[2024-05-20 16:24:04,453] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:04,457] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:09,471] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:09,475] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:14,492] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:14,495] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:19,669] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:19,674] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:24,694] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:24,698] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:29,717] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:29,722] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:31,731] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.05s           2024-05-20T16:24:14
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:24:14
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:24:14
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:24:14
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:24:14
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:24:14
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.06s           2024-05-20T16:24:13
+================================================================================
+[2024-05-20 16:24:34,736] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:34,741] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:39,755] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:39,758] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:44,778] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:44,783] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:49,984] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:49,988] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:24:55,003] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:24:55,006] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:00,021] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:00,025] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:02,034] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.07s           2024-05-20T16:24:44
+/opt/airflow/dags/4-customoperator.py                            1           0  0.06s           2024-05-20T16:24:44
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:24:44
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:24:44
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.07s           2024-05-20T16:24:44
+/opt/airflow/dags/3-dependencies.py                              1           0  0.06s           2024-05-20T16:24:44
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:24:43
+================================================================================
+[2024-05-20 16:25:05,041] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:05,045] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:10,058] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:10,061] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:15,078] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:15,082] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:20,211] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:20,214] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:25,233] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:25,236] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:30,257] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:30,263] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:32,275] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:25:15
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:25:15
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:25:15
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.05s           2024-05-20T16:25:15
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:25:15
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:25:15
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.05s           2024-05-20T16:25:14
+================================================================================
+[2024-05-20 16:25:35,280] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:35,285] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:40,299] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:40,303] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:45,323] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:45,326] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:50,501] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:50,505] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:25:55,517] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:25:55,521] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:26:00,536] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:26:00,544] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:26:02,557] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/5.1-orchestration.py                           1           0  0.06s           2024-05-20T16:25:45
+/opt/airflow/dags/4-customoperator.py                            1           0  0.05s           2024-05-20T16:25:45
+/opt/airflow/dags/0-firstdag.py                                  1           0  0.05s           2024-05-20T16:25:45
+/opt/airflow/dags/2-pythonoperator.py                            1           0  0.06s           2024-05-20T16:25:45
+/opt/airflow/dags/1-bashoperator.py                              1           0  0.05s           2024-05-20T16:25:45
+/opt/airflow/dags/3-dependencies.py                              1           0  0.05s           2024-05-20T16:25:45
+/opt/airflow/dags/5.2.orchestration.py                           1           0  0.06s           2024-05-20T16:25:44
+================================================================================
+[2024-05-20 16:26:05,563] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:26:05,569] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:26:10,585] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:26:10,589] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:26:15,613] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:26:15,616] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
+[2024-05-20 16:26:20,794] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-05-20 16:26:20,798] {manager.py:693} INFO - There are 7 files in /opt/airflow/dags
