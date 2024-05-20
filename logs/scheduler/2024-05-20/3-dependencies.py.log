@@ -1,0 +1,417 @@
+[2024-05-20 14:46:07,673] {processor.py:153} INFO - Started process (PID=714) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:46:07,673] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:46:07,674] {logging_mixin.py:115} INFO - [2024-05-20 14:46:07,674] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:46:07,678] {logging_mixin.py:115} INFO - [2024-05-20 14:46:07,675] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 10
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2024-05-20 14:46:07,678] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:46:07,692] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.022 seconds
+[2024-05-20 14:46:32,829] {processor.py:153} INFO - Started process (PID=736) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:46:32,830] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:46:32,830] {logging_mixin.py:115} INFO - [2024-05-20 14:46:32,830] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:46:32,839] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:46:32,892] {logging_mixin.py:115} INFO - [2024-05-20 14:46:32,892] {manager.py:508} INFO - Created Permission View: can edit on DAG:dependencies
+[2024-05-20 14:46:32,898] {logging_mixin.py:115} INFO - [2024-05-20 14:46:32,898] {manager.py:508} INFO - Created Permission View: can delete on DAG:dependencies
+[2024-05-20 14:46:32,903] {logging_mixin.py:115} INFO - [2024-05-20 14:46:32,903] {manager.py:508} INFO - Created Permission View: can read on DAG:dependencies
+[2024-05-20 14:46:32,903] {logging_mixin.py:115} INFO - [2024-05-20 14:46:32,903] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:46:32,909] {logging_mixin.py:115} INFO - [2024-05-20 14:46:32,909] {dag.py:2439} INFO - Creating ORM DAG for dependencies
+[2024-05-20 14:46:32,916] {logging_mixin.py:115} INFO - [2024-05-20 14:46:32,916] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:46:32,932] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.105 seconds
+[2024-05-20 14:47:03,011] {processor.py:153} INFO - Started process (PID=767) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:03,011] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:47:03,012] {logging_mixin.py:115} INFO - [2024-05-20 14:47:03,012] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:03,017] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:03,031] {logging_mixin.py:115} INFO - [2024-05-20 14:47:03,031] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:47:03,044] {logging_mixin.py:115} INFO - [2024-05-20 14:47:03,044] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:47:03,051] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.042 seconds
+[2024-05-20 14:47:18,131] {processor.py:153} INFO - Started process (PID=780) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:18,132] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:47:18,132] {logging_mixin.py:115} INFO - [2024-05-20 14:47:18,132] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:18,144] {logging_mixin.py:115} INFO - [2024-05-20 14:47:18,138] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:47:18,144] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:18,157] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.028 seconds
+[2024-05-20 14:47:23,157] {processor.py:153} INFO - Started process (PID=790) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:23,157] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:47:23,158] {logging_mixin.py:115} INFO - [2024-05-20 14:47:23,158] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:23,164] {logging_mixin.py:115} INFO - [2024-05-20 14:47:23,163] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:47:23,164] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:23,177] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.023 seconds
+[2024-05-20 14:47:53,353] {processor.py:153} INFO - Started process (PID=819) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:53,354] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:47:53,354] {logging_mixin.py:115} INFO - [2024-05-20 14:47:53,354] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:53,360] {logging_mixin.py:115} INFO - [2024-05-20 14:47:53,359] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:47:53,360] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:47:53,373] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.022 seconds
+[2024-05-20 14:48:23,544] {processor.py:153} INFO - Started process (PID=842) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:48:23,544] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:48:23,544] {logging_mixin.py:115} INFO - [2024-05-20 14:48:23,544] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:48:23,550] {logging_mixin.py:115} INFO - [2024-05-20 14:48:23,549] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:48:23,550] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:48:23,561] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.020 seconds
+[2024-05-20 14:48:53,732] {processor.py:153} INFO - Started process (PID=873) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:48:53,732] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:48:53,733] {logging_mixin.py:115} INFO - [2024-05-20 14:48:53,733] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:48:53,738] {logging_mixin.py:115} INFO - [2024-05-20 14:48:53,737] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:48:53,738] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:48:53,751] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.021 seconds
+[2024-05-20 14:49:23,919] {processor.py:153} INFO - Started process (PID=904) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:49:23,920] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:49:23,920] {logging_mixin.py:115} INFO - [2024-05-20 14:49:23,920] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:49:23,926] {logging_mixin.py:115} INFO - [2024-05-20 14:49:23,926] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:49:23,927] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:49:23,939] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.022 seconds
+[2024-05-20 14:49:54,103] {processor.py:153} INFO - Started process (PID=935) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:49:54,103] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:49:54,104] {logging_mixin.py:115} INFO - [2024-05-20 14:49:54,104] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:49:54,110] {logging_mixin.py:115} INFO - [2024-05-20 14:49:54,109] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:49:54,110] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:49:54,125] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.024 seconds
+[2024-05-20 14:50:24,296] {processor.py:153} INFO - Started process (PID=966) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:50:24,297] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:50:24,297] {logging_mixin.py:115} INFO - [2024-05-20 14:50:24,297] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:50:24,303] {logging_mixin.py:115} INFO - [2024-05-20 14:50:24,303] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:50:24,304] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:50:24,317] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.024 seconds
+[2024-05-20 14:50:54,486] {processor.py:153} INFO - Started process (PID=988) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:50:54,486] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:50:54,487] {logging_mixin.py:115} INFO - [2024-05-20 14:50:54,487] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:50:54,493] {logging_mixin.py:115} INFO - [2024-05-20 14:50:54,492] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:50:54,493] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:50:54,505] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.021 seconds
+[2024-05-20 14:51:24,677] {processor.py:153} INFO - Started process (PID=1018) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:51:24,677] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:51:24,677] {logging_mixin.py:115} INFO - [2024-05-20 14:51:24,677] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:51:24,683] {logging_mixin.py:115} INFO - [2024-05-20 14:51:24,682] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:51:24,683] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:51:24,728] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.053 seconds
+[2024-05-20 14:51:54,869] {processor.py:153} INFO - Started process (PID=1049) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:51:54,870] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:51:54,870] {logging_mixin.py:115} INFO - [2024-05-20 14:51:54,870] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:51:54,876] {logging_mixin.py:115} INFO - [2024-05-20 14:51:54,875] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:51:54,877] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:51:54,889] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.022 seconds
+[2024-05-20 14:52:25,063] {processor.py:153} INFO - Started process (PID=1080) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:52:25,063] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:52:25,064] {logging_mixin.py:115} INFO - [2024-05-20 14:52:25,064] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:52:25,070] {logging_mixin.py:115} INFO - [2024-05-20 14:52:25,069] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:52:25,071] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:52:25,085] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.025 seconds
+[2024-05-20 14:52:35,119] {processor.py:153} INFO - Started process (PID=1090) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:52:35,120] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:52:35,120] {logging_mixin.py:115} INFO - [2024-05-20 14:52:35,120] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:52:35,129] {logging_mixin.py:115} INFO - [2024-05-20 14:52:35,128] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/3-dependencies.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/3-dependencies.py", line 16, in <module>
+    bash_command="echo 'Task 2'")
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 144, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 64, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'task 2' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-05-20 14:52:35,129] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:52:35,142] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.026 seconds
+[2024-05-20 14:53:05,301] {processor.py:153} INFO - Started process (PID=1112) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:05,301] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:53:05,301] {logging_mixin.py:115} INFO - [2024-05-20 14:53:05,301] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:05,308] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:05,350] {logging_mixin.py:115} INFO - [2024-05-20 14:53:05,350] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:53:05,361] {logging_mixin.py:115} INFO - [2024-05-20 14:53:05,361] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:53:05,374] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.076 seconds
+[2024-05-20 14:53:35,491] {processor.py:153} INFO - Started process (PID=1143) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:35,491] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:53:35,492] {logging_mixin.py:115} INFO - [2024-05-20 14:53:35,492] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:35,500] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:35,519] {logging_mixin.py:115} INFO - [2024-05-20 14:53:35,519] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:53:35,535] {logging_mixin.py:115} INFO - [2024-05-20 14:53:35,535] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:53:35,543] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.056 seconds
+[2024-05-20 14:53:45,540] {processor.py:153} INFO - Started process (PID=1153) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:45,540] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:53:45,541] {logging_mixin.py:115} INFO - [2024-05-20 14:53:45,541] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:45,548] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:45,566] {logging_mixin.py:115} INFO - [2024-05-20 14:53:45,566] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:53:45,579] {logging_mixin.py:115} INFO - [2024-05-20 14:53:45,579] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:53:45,588] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.051 seconds
+[2024-05-20 14:53:59,702] {processor.py:153} INFO - Started process (PID=1166) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:59,702] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:53:59,703] {logging_mixin.py:115} INFO - [2024-05-20 14:53:59,703] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:59,710] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:53:59,751] {logging_mixin.py:115} INFO - [2024-05-20 14:53:59,751] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:53:59,764] {logging_mixin.py:115} INFO - [2024-05-20 14:53:59,764] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:53:59,774] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.075 seconds
+[2024-05-20 14:54:29,903] {processor.py:153} INFO - Started process (PID=1197) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:54:29,904] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:54:29,904] {logging_mixin.py:115} INFO - [2024-05-20 14:54:29,904] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:54:29,910] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:54:29,928] {logging_mixin.py:115} INFO - [2024-05-20 14:54:29,928] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:54:29,942] {logging_mixin.py:115} INFO - [2024-05-20 14:54:29,942] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:54:29,950] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.049 seconds
+[2024-05-20 14:55:00,100] {processor.py:153} INFO - Started process (PID=1228) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:55:00,101] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:55:00,101] {logging_mixin.py:115} INFO - [2024-05-20 14:55:00,101] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:55:00,108] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:55:00,124] {logging_mixin.py:115} INFO - [2024-05-20 14:55:00,124] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:55:00,138] {logging_mixin.py:115} INFO - [2024-05-20 14:55:00,138] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:55:00,147] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.049 seconds
+[2024-05-20 14:55:30,313] {processor.py:153} INFO - Started process (PID=1259) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:55:30,314] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:55:30,314] {logging_mixin.py:115} INFO - [2024-05-20 14:55:30,314] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:55:30,320] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:55:30,335] {logging_mixin.py:115} INFO - [2024-05-20 14:55:30,334] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:55:30,347] {logging_mixin.py:115} INFO - [2024-05-20 14:55:30,347] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:55:30,355] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-05-20 14:56:00,516] {processor.py:153} INFO - Started process (PID=1290) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:56:00,516] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:56:00,516] {logging_mixin.py:115} INFO - [2024-05-20 14:56:00,516] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:56:00,524] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:56:00,539] {logging_mixin.py:115} INFO - [2024-05-20 14:56:00,539] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:56:00,552] {logging_mixin.py:115} INFO - [2024-05-20 14:56:00,552] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:56:00,559] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-05-20 14:56:30,704] {processor.py:153} INFO - Started process (PID=1312) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:56:30,704] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:56:30,705] {logging_mixin.py:115} INFO - [2024-05-20 14:56:30,705] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:56:30,711] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:56:30,728] {logging_mixin.py:115} INFO - [2024-05-20 14:56:30,728] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:56:30,742] {logging_mixin.py:115} INFO - [2024-05-20 14:56:30,742] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:56:30,750] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.048 seconds
+[2024-05-20 14:57:00,941] {processor.py:153} INFO - Started process (PID=1343) to work on /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:57:00,942] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-05-20 14:57:00,942] {logging_mixin.py:115} INFO - [2024-05-20 14:57:00,942] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:57:00,948] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-05-20 14:57:00,964] {logging_mixin.py:115} INFO - [2024-05-20 14:57:00,964] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-05-20 14:57:00,978] {logging_mixin.py:115} INFO - [2024-05-20 14:57:00,978] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-05-20 14:57:01,003] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.064 seconds
