@@ -1,0 +1,14 @@
+[2024-06-19 13:36:35,362] {processor.py:153} INFO - Started process (PID=39) to work on /opt/airflow/dags/5.1-orchestration.py
+[2024-06-19 13:36:35,362] {processor.py:641} INFO - Processing file /opt/airflow/dags/5.1-orchestration.py for tasks to queue
+[2024-06-19 13:36:35,363] {logging_mixin.py:115} INFO - [2024-06-19 13:36:35,363] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/5.1-orchestration.py
+[2024-06-19 13:36:35,369] {processor.py:651} INFO - DAG(s) dict_keys(['5.1-orchestration']) retrieved from /opt/airflow/dags/5.1-orchestration.py
+[2024-06-19 13:36:35,388] {logging_mixin.py:115} INFO - [2024-06-19 13:36:35,388] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-06-19 13:36:35,483] {logging_mixin.py:115} INFO - [2024-06-19 13:36:35,483] {dag.py:2972} INFO - Setting next_dagrun for 5.1-orchestration to 2024-05-20T00:00:00+00:00, run_after=2024-05-21T00:00:00+00:00
+[2024-06-19 13:36:35,490] {processor.py:161} INFO - Processing /opt/airflow/dags/5.1-orchestration.py took 0.130 seconds
+[2024-06-19 13:37:06,198] {processor.py:153} INFO - Started process (PID=74) to work on /opt/airflow/dags/5.1-orchestration.py
+[2024-06-19 13:37:06,198] {processor.py:641} INFO - Processing file /opt/airflow/dags/5.1-orchestration.py for tasks to queue
+[2024-06-19 13:37:06,198] {logging_mixin.py:115} INFO - [2024-06-19 13:37:06,198] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/5.1-orchestration.py
+[2024-06-19 13:37:06,204] {processor.py:651} INFO - DAG(s) dict_keys(['5.1-orchestration']) retrieved from /opt/airflow/dags/5.1-orchestration.py
+[2024-06-19 13:37:06,220] {logging_mixin.py:115} INFO - [2024-06-19 13:37:06,219] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-06-19 13:37:06,301] {logging_mixin.py:115} INFO - [2024-06-19 13:37:06,301] {dag.py:2972} INFO - Setting next_dagrun for 5.1-orchestration to 2024-05-20T00:00:00+00:00, run_after=2024-05-21T00:00:00+00:00
+[2024-06-19 13:37:06,308] {processor.py:161} INFO - Processing /opt/airflow/dags/5.1-orchestration.py took 0.113 seconds

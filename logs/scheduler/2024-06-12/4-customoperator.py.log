@@ -1,0 +1,21 @@
+[2024-06-12 06:51:57,615] {processor.py:153} INFO - Started process (PID=40) to work on /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:51:57,615] {processor.py:641} INFO - Processing file /opt/airflow/dags/4-customoperator.py for tasks to queue
+[2024-06-12 06:51:57,616] {logging_mixin.py:115} INFO - [2024-06-12 06:51:57,616] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:51:57,620] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:51:57,643] {logging_mixin.py:115} INFO - [2024-06-12 06:51:57,643] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-06-12 06:51:57,759] {logging_mixin.py:115} INFO - [2024-06-12 06:51:57,759] {dag.py:2972} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2024-06-12 06:51:57,772] {processor.py:161} INFO - Processing /opt/airflow/dags/4-customoperator.py took 0.160 seconds
+[2024-06-12 06:52:28,410] {processor.py:153} INFO - Started process (PID=75) to work on /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:52:28,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/4-customoperator.py for tasks to queue
+[2024-06-12 06:52:28,411] {logging_mixin.py:115} INFO - [2024-06-12 06:52:28,411] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:52:28,415] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:52:28,432] {logging_mixin.py:115} INFO - [2024-06-12 06:52:28,432] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-06-12 06:52:28,524] {logging_mixin.py:115} INFO - [2024-06-12 06:52:28,524] {dag.py:2972} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2024-06-12 06:52:28,532] {processor.py:161} INFO - Processing /opt/airflow/dags/4-customoperator.py took 0.125 seconds
+[2024-06-12 06:52:59,201] {processor.py:153} INFO - Started process (PID=110) to work on /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:52:59,202] {processor.py:641} INFO - Processing file /opt/airflow/dags/4-customoperator.py for tasks to queue
+[2024-06-12 06:52:59,202] {logging_mixin.py:115} INFO - [2024-06-12 06:52:59,202] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:52:59,207] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /opt/airflow/dags/4-customoperator.py
+[2024-06-12 06:52:59,315] {logging_mixin.py:115} INFO - [2024-06-12 06:52:59,315] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-06-12 06:52:59,329] {logging_mixin.py:115} INFO - [2024-06-12 06:52:59,329] {dag.py:2972} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2024-06-12 06:52:59,337] {processor.py:161} INFO - Processing /opt/airflow/dags/4-customoperator.py took 0.137 seconds

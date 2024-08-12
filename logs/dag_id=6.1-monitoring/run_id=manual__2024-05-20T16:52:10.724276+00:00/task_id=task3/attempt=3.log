@@ -1,0 +1,28 @@
+[2024-05-20 16:52:55,063] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 6.1-monitoring.task3 manual__2024-05-20T16:52:10.724276+00:00 [queued]>
+[2024-05-20 16:52:55,070] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 6.1-monitoring.task3 manual__2024-05-20T16:52:10.724276+00:00 [queued]>
+[2024-05-20 16:52:55,071] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2024-05-20 16:52:55,071] {taskinstance.py:1377} INFO - Starting attempt 3 of 3
+[2024-05-20 16:52:55,071] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2024-05-20 16:52:55,082] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task3> on 2024-05-20 16:52:10.724276+00:00
+[2024-05-20 16:52:55,084] {standard_task_runner.py:52} INFO - Started process 3089 to run task
+[2024-05-20 16:52:55,086] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', '6.1-monitoring', 'task3', 'manual__2024-05-20T16:52:10.724276+00:00', '--job-id', '169', '--raw', '--subdir', 'DAGS_FOLDER/6.1-monitoring.py', '--cfg-path', '/tmp/tmprk7mwh4g', '--error-file', '/tmp/tmpnu41iso9']
+[2024-05-20 16:52:55,087] {standard_task_runner.py:80} INFO - Job 169: Subtask task3
+[2024-05-20 16:52:55,128] {task_command.py:371} INFO - Running <TaskInstance: 6.1-monitoring.task3 manual__2024-05-20T16:52:10.724276+00:00 [running]> on host c832426e9d7b
+[2024-05-20 16:52:55,170] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=6.1-monitoring
+AIRFLOW_CTX_TASK_ID=task3
+AIRFLOW_CTX_EXECUTION_DATE=2024-05-20T16:52:10.724276+00:00
+AIRFLOW_CTX_TRY_NUMBER=3
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-05-20T16:52:10.724276+00:00
+[2024-05-20 16:52:55,171] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2024-05-20 16:52:55,172] {subprocess.py:74} INFO - Running command: ['bash', '-c', "sleep 2 && echo 'Task 3'"]
+[2024-05-20 16:52:55,177] {subprocess.py:85} INFO - Output:
+[2024-05-20 16:52:57,180] {subprocess.py:92} INFO - Task 3
+[2024-05-20 16:52:57,181] {subprocess.py:96} INFO - Command exited with return code 0
+[2024-05-20 16:52:57,202] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=6.1-monitoring, task_id=task3, execution_date=20240520T165210, start_date=20240520T165255, end_date=20240520T165257
+[2024-05-20 16:52:57,232] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-05-20 16:52:57,260] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

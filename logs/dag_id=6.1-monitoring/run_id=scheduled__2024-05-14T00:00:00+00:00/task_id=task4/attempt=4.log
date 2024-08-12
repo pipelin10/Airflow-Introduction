@@ -1,0 +1,32 @@
+[2024-05-20 16:53:59,452] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 6.1-monitoring.task4 scheduled__2024-05-14T00:00:00+00:00 [queued]>
+[2024-05-20 16:53:59,486] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 6.1-monitoring.task4 scheduled__2024-05-14T00:00:00+00:00 [queued]>
+[2024-05-20 16:53:59,487] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2024-05-20 16:53:59,487] {taskinstance.py:1377} INFO - Starting attempt 4 of 4
+[2024-05-20 16:53:59,488] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2024-05-20 16:53:59,522] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): task4> on 2024-05-14 00:00:00+00:00
+[2024-05-20 16:53:59,531] {standard_task_runner.py:52} INFO - Started process 3330 to run task
+[2024-05-20 16:53:59,532] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', '6.1-monitoring', 'task4', 'scheduled__2024-05-14T00:00:00+00:00', '--job-id', '233', '--raw', '--subdir', 'DAGS_FOLDER/6.1-monitoring.py', '--cfg-path', '/tmp/tmp2b5g8tom', '--error-file', '/tmp/tmpcg_f2vbd']
+[2024-05-20 16:53:59,537] {standard_task_runner.py:80} INFO - Job 233: Subtask task4
+[2024-05-20 16:53:59,693] {task_command.py:371} INFO - Running <TaskInstance: 6.1-monitoring.task4 scheduled__2024-05-14T00:00:00+00:00 [running]> on host c832426e9d7b
+[2024-05-20 16:53:59,808] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=6.1-monitoring
+AIRFLOW_CTX_TASK_ID=task4
+AIRFLOW_CTX_EXECUTION_DATE=2024-05-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=4
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-05-14T00:00:00+00:00
+[2024-05-20 16:53:59,810] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/6.1-monitoring.py", line 7, in func_with_error
+    raise ValueError("This is an error")
+ValueError: This is an error
+[2024-05-20 16:53:59,828] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=6.1-monitoring, task_id=task4, execution_date=20240514T000000, start_date=20240520T165359, end_date=20240520T165359
+[2024-05-20 16:53:59,850] {standard_task_runner.py:97} ERROR - Failed to execute job 233 for task task4 (This is an error; 3330)
+[2024-05-20 16:53:59,883] {local_task_job.py:156} INFO - Task exited with return code 1
+[2024-05-20 16:53:59,942] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
