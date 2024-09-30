@@ -1,0 +1,7 @@
+[2024-09-24 21:01:29,022] {processor.py:153} INFO - Started process (PID=41) to work on /opt/airflow/dags/6.1-monitoring.py
+[2024-09-24 21:01:29,023] {processor.py:641} INFO - Processing file /opt/airflow/dags/6.1-monitoring.py for tasks to queue
+[2024-09-24 21:01:29,023] {logging_mixin.py:115} INFO - [2024-09-24 21:01:29,023] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/6.1-monitoring.py
+[2024-09-24 21:01:29,046] {processor.py:651} INFO - DAG(s) dict_keys(['6.1-monitoring']) retrieved from /opt/airflow/dags/6.1-monitoring.py
+[2024-09-24 21:01:29,087] {logging_mixin.py:115} INFO - [2024-09-24 21:01:29,087] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-24 21:01:29,302] {logging_mixin.py:115} INFO - [2024-09-24 21:01:29,302] {dag.py:2972} INFO - Setting next_dagrun for 6.1-monitoring to 2024-06-05T00:00:00+00:00, run_after=2024-06-06T00:00:00+00:00
+[2024-09-24 21:01:29,324] {processor.py:161} INFO - Processing /opt/airflow/dags/6.1-monitoring.py took 0.308 seconds

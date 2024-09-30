@@ -1,0 +1,21 @@
+[2024-09-13 05:38:49,344] {processor.py:153} INFO - Started process (PID=39) to work on /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 05:38:49,344] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.1-ExternalTaskSensor.py for tasks to queue
+[2024-09-13 05:38:49,345] {logging_mixin.py:115} INFO - [2024-09-13 05:38:49,345] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 05:38:49,350] {processor.py:651} INFO - DAG(s) dict_keys(['7.1-ExternalTaskSensor']) retrieved from /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 05:38:49,366] {logging_mixin.py:115} INFO - [2024-09-13 05:38:49,366] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-13 05:38:49,468] {logging_mixin.py:115} INFO - [2024-09-13 05:38:49,468] {dag.py:2972} INFO - Setting next_dagrun for 7.1-ExternalTaskSensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-09-13 05:38:49,479] {processor.py:161} INFO - Processing /opt/airflow/dags/7.1-ExternalTaskSensor.py took 0.137 seconds
+[2024-09-13 16:35:45,294] {processor.py:153} INFO - Started process (PID=39) to work on /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 16:35:45,295] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.1-ExternalTaskSensor.py for tasks to queue
+[2024-09-13 16:35:45,295] {logging_mixin.py:115} INFO - [2024-09-13 16:35:45,295] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 16:35:45,303] {processor.py:651} INFO - DAG(s) dict_keys(['7.1-ExternalTaskSensor']) retrieved from /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 16:35:45,324] {logging_mixin.py:115} INFO - [2024-09-13 16:35:45,324] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-13 16:35:45,438] {logging_mixin.py:115} INFO - [2024-09-13 16:35:45,438] {dag.py:2972} INFO - Setting next_dagrun for 7.1-ExternalTaskSensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-09-13 16:35:45,447] {processor.py:161} INFO - Processing /opt/airflow/dags/7.1-ExternalTaskSensor.py took 0.154 seconds
+[2024-09-13 16:36:15,462] {processor.py:153} INFO - Started process (PID=78) to work on /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 16:36:15,463] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.1-ExternalTaskSensor.py for tasks to queue
+[2024-09-13 16:36:15,463] {logging_mixin.py:115} INFO - [2024-09-13 16:36:15,463] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 16:36:15,468] {processor.py:651} INFO - DAG(s) dict_keys(['7.1-ExternalTaskSensor']) retrieved from /opt/airflow/dags/7.1-ExternalTaskSensor.py
+[2024-09-13 16:36:15,484] {logging_mixin.py:115} INFO - [2024-09-13 16:36:15,484] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-13 16:36:15,577] {logging_mixin.py:115} INFO - [2024-09-13 16:36:15,577] {dag.py:2972} INFO - Setting next_dagrun for 7.1-ExternalTaskSensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-09-13 16:36:15,584] {processor.py:161} INFO - Processing /opt/airflow/dags/7.1-ExternalTaskSensor.py took 0.124 seconds

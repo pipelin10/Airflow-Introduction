@@ -1,0 +1,7 @@
+[2024-08-27 01:11:06,508] {processor.py:153} INFO - Started process (PID=43) to work on /opt/airflow/dags/5.1-orchestration.py
+[2024-08-27 01:11:06,508] {processor.py:641} INFO - Processing file /opt/airflow/dags/5.1-orchestration.py for tasks to queue
+[2024-08-27 01:11:06,509] {logging_mixin.py:115} INFO - [2024-08-27 01:11:06,509] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/5.1-orchestration.py
+[2024-08-27 01:11:06,515] {processor.py:651} INFO - DAG(s) dict_keys(['5.1-orchestration']) retrieved from /opt/airflow/dags/5.1-orchestration.py
+[2024-08-27 01:11:06,530] {logging_mixin.py:115} INFO - [2024-08-27 01:11:06,530] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-27 01:11:06,663] {logging_mixin.py:115} INFO - [2024-08-27 01:11:06,663] {dag.py:2972} INFO - Setting next_dagrun for 5.1-orchestration to 2024-05-20T00:00:00+00:00, run_after=2024-05-21T00:00:00+00:00
+[2024-08-27 01:11:06,672] {processor.py:161} INFO - Processing /opt/airflow/dags/5.1-orchestration.py took 0.167 seconds

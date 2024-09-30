@@ -1,0 +1,119 @@
+[2024-08-12 14:51:14,836] {processor.py:153} INFO - Started process (PID=2310) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:51:14,837] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:51:14,837] {logging_mixin.py:115} INFO - [2024-08-12 14:51:14,837] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:51:14,842] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:51:14,852] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.018 seconds
+[2024-08-12 14:51:45,288] {processor.py:153} INFO - Started process (PID=2349) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:51:45,289] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:51:45,289] {logging_mixin.py:115} INFO - [2024-08-12 14:51:45,289] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:51:45,293] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:51:45,304] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.018 seconds
+[2024-08-12 14:52:14,726] {processor.py:153} INFO - Started process (PID=2388) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:14,727] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:52:14,727] {logging_mixin.py:115} INFO - [2024-08-12 14:52:14,727] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:14,736] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:14,810] {logging_mixin.py:115} INFO - [2024-08-12 14:52:14,810] {manager.py:508} INFO - Created Permission View: can edit on DAG:7.3-Filesensor
+[2024-08-12 14:52:14,820] {logging_mixin.py:115} INFO - [2024-08-12 14:52:14,820] {manager.py:508} INFO - Created Permission View: can read on DAG:7.3-Filesensor
+[2024-08-12 14:52:14,827] {logging_mixin.py:115} INFO - [2024-08-12 14:52:14,827] {manager.py:508} INFO - Created Permission View: can delete on DAG:7.3-Filesensor
+[2024-08-12 14:52:14,827] {logging_mixin.py:115} INFO - [2024-08-12 14:52:14,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:52:14,835] {logging_mixin.py:115} INFO - [2024-08-12 14:52:14,835] {dag.py:2439} INFO - Creating ORM DAG for 7.3-Filesensor
+[2024-08-12 14:52:14,846] {logging_mixin.py:115} INFO - [2024-08-12 14:52:14,845] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-10T00:00:00+00:00, run_after=2024-08-11T00:00:00+00:00
+[2024-08-12 14:52:14,857] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.134 seconds
+[2024-08-12 14:52:20,814] {processor.py:153} INFO - Started process (PID=2389) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:20,815] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:52:20,815] {logging_mixin.py:115} INFO - [2024-08-12 14:52:20,815] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:20,824] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:20,834] {logging_mixin.py:115} INFO - [2024-08-12 14:52:20,834] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:52:20,851] {logging_mixin.py:115} INFO - [2024-08-12 14:52:20,851] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-10T00:00:00+00:00, run_after=2024-08-11T00:00:00+00:00
+[2024-08-12 14:52:20,861] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.049 seconds
+[2024-08-12 14:52:31,179] {processor.py:153} INFO - Started process (PID=2407) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:31,180] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:52:31,180] {logging_mixin.py:115} INFO - [2024-08-12 14:52:31,180] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:31,188] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:31,197] {logging_mixin.py:115} INFO - [2024-08-12 14:52:31,197] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:52:31,213] {logging_mixin.py:115} INFO - [2024-08-12 14:52:31,212] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-10T00:00:00+00:00, run_after=2024-08-11T00:00:00+00:00
+[2024-08-12 14:52:31,221] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.045 seconds
+[2024-08-12 14:52:51,342] {processor.py:153} INFO - Started process (PID=2429) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:51,342] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:52:51,343] {logging_mixin.py:115} INFO - [2024-08-12 14:52:51,343] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:51,350] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:52:51,373] {logging_mixin.py:115} INFO - [2024-08-12 14:52:51,373] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:52:51,387] {logging_mixin.py:115} INFO - [2024-08-12 14:52:51,387] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-10T00:00:00+00:00, run_after=2024-08-11T00:00:00+00:00
+[2024-08-12 14:52:51,397] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.057 seconds
+[2024-08-12 14:53:05,672] {processor.py:153} INFO - Started process (PID=2447) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:05,672] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:53:05,672] {logging_mixin.py:115} INFO - [2024-08-12 14:53:05,672] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:05,680] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:05,729] {logging_mixin.py:115} INFO - [2024-08-12 14:53:05,729] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:53:05,742] {logging_mixin.py:115} INFO - [2024-08-12 14:53:05,742] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-10T00:00:00+00:00, run_after=2024-08-11T00:00:00+00:00
+[2024-08-12 14:53:05,753] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.084 seconds
+[2024-08-12 14:53:16,838] {processor.py:153} INFO - Started process (PID=2459) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:16,838] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:53:16,839] {logging_mixin.py:115} INFO - [2024-08-12 14:53:16,839] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:16,846] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:16,857] {logging_mixin.py:115} INFO - [2024-08-12 14:53:16,857] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:53:16,874] {logging_mixin.py:115} INFO - [2024-08-12 14:53:16,874] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-10T00:00:00+00:00, run_after=2024-08-11T00:00:00+00:00
+[2024-08-12 14:53:16,884] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.049 seconds
+[2024-08-12 14:53:37,253] {processor.py:153} INFO - Started process (PID=2486) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:37,254] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:53:37,254] {logging_mixin.py:115} INFO - [2024-08-12 14:53:37,254] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:37,262] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:37,314] {logging_mixin.py:115} INFO - [2024-08-12 14:53:37,314] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:53:37,331] {logging_mixin.py:115} INFO - [2024-08-12 14:53:37,331] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-10T00:00:00+00:00, run_after=2024-08-11T00:00:00+00:00
+[2024-08-12 14:53:37,342] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.091 seconds
+[2024-08-12 14:53:47,458] {processor.py:153} INFO - Started process (PID=2499) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:47,458] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:53:47,459] {logging_mixin.py:115} INFO - [2024-08-12 14:53:47,459] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:47,467] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:53:47,477] {logging_mixin.py:115} INFO - [2024-08-12 14:53:47,477] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:53:47,496] {logging_mixin.py:115} INFO - [2024-08-12 14:53:47,496] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-10T00:00:00+00:00, run_after=2024-08-11T00:00:00+00:00
+[2024-08-12 14:53:47,507] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.051 seconds
+[2024-08-12 14:54:17,907] {processor.py:153} INFO - Started process (PID=2550) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:54:17,908] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:54:17,908] {logging_mixin.py:115} INFO - [2024-08-12 14:54:17,908] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:54:17,915] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:54:17,961] {logging_mixin.py:115} INFO - [2024-08-12 14:54:17,961] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:54:17,976] {logging_mixin.py:115} INFO - [2024-08-12 14:54:17,976] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-08-12 14:54:17,985] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.080 seconds
+[2024-08-12 14:54:48,378] {processor.py:153} INFO - Started process (PID=2589) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:54:48,378] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:54:48,379] {logging_mixin.py:115} INFO - [2024-08-12 14:54:48,379] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:54:48,386] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:54:48,409] {logging_mixin.py:115} INFO - [2024-08-12 14:54:48,409] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:54:48,424] {logging_mixin.py:115} INFO - [2024-08-12 14:54:48,424] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-08-12 14:54:48,431] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.055 seconds
+[2024-08-12 14:55:18,849] {processor.py:153} INFO - Started process (PID=2628) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:55:18,850] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:55:18,850] {logging_mixin.py:115} INFO - [2024-08-12 14:55:18,850] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:55:18,859] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:55:18,888] {logging_mixin.py:115} INFO - [2024-08-12 14:55:18,888] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:55:18,906] {logging_mixin.py:115} INFO - [2024-08-12 14:55:18,906] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-08-12 14:55:18,915] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.068 seconds
+[2024-08-12 14:55:49,364] {processor.py:153} INFO - Started process (PID=2658) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:55:49,365] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:55:49,365] {logging_mixin.py:115} INFO - [2024-08-12 14:55:49,365] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:55:49,374] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:55:49,395] {logging_mixin.py:115} INFO - [2024-08-12 14:55:49,395] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:55:49,410] {logging_mixin.py:115} INFO - [2024-08-12 14:55:49,410] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-08-12 14:55:49,417] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.055 seconds
+[2024-08-12 14:56:19,836] {processor.py:153} INFO - Started process (PID=2697) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:56:19,837] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:56:19,837] {logging_mixin.py:115} INFO - [2024-08-12 14:56:19,837] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:56:19,844] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:56:19,868] {logging_mixin.py:115} INFO - [2024-08-12 14:56:19,868] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:56:19,883] {logging_mixin.py:115} INFO - [2024-08-12 14:56:19,883] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-08-12 14:56:19,891] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.057 seconds
+[2024-08-12 14:56:50,326] {processor.py:153} INFO - Started process (PID=2736) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:56:50,326] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:56:50,327] {logging_mixin.py:115} INFO - [2024-08-12 14:56:50,327] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:56:50,334] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:56:50,355] {logging_mixin.py:115} INFO - [2024-08-12 14:56:50,355] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:56:50,370] {logging_mixin.py:115} INFO - [2024-08-12 14:56:50,370] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-08-12 14:56:50,378] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.054 seconds
+[2024-08-12 14:57:20,805] {processor.py:153} INFO - Started process (PID=2775) to work on /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:57:20,806] {processor.py:641} INFO - Processing file /opt/airflow/dags/7.3-Filesensor.py for tasks to queue
+[2024-08-12 14:57:20,806] {logging_mixin.py:115} INFO - [2024-08-12 14:57:20,806] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:57:20,812] {processor.py:651} INFO - DAG(s) dict_keys(['7.3-Filesensor']) retrieved from /opt/airflow/dags/7.3-Filesensor.py
+[2024-08-12 14:57:20,836] {logging_mixin.py:115} INFO - [2024-08-12 14:57:20,836] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-08-12 14:57:20,856] {logging_mixin.py:115} INFO - [2024-08-12 14:57:20,856] {dag.py:2972} INFO - Setting next_dagrun for 7.3-Filesensor to 2024-08-12T00:00:00+00:00, run_after=2024-08-13T00:00:00+00:00
+[2024-08-12 14:57:20,870] {processor.py:161} INFO - Processing /opt/airflow/dags/7.3-Filesensor.py took 0.067 seconds

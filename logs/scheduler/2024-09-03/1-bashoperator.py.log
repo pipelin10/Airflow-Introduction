@@ -1,0 +1,7 @@
+[2024-09-03 19:17:05,936] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/1-bashoperator.py
+[2024-09-03 19:17:05,937] {processor.py:641} INFO - Processing file /opt/airflow/dags/1-bashoperator.py for tasks to queue
+[2024-09-03 19:17:05,937] {logging_mixin.py:115} INFO - [2024-09-03 19:17:05,937] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/1-bashoperator.py
+[2024-09-03 19:17:05,941] {processor.py:651} INFO - DAG(s) dict_keys(['bashoperator']) retrieved from /opt/airflow/dags/1-bashoperator.py
+[2024-09-03 19:17:05,962] {logging_mixin.py:115} INFO - [2024-09-03 19:17:05,962] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-03 19:17:06,111] {logging_mixin.py:115} INFO - [2024-09-03 19:17:06,111] {dag.py:2972} INFO - Setting next_dagrun for bashoperator to 2024-05-15T00:00:00+00:00, run_after=2024-05-16T00:00:00+00:00
+[2024-09-03 19:17:06,122] {processor.py:161} INFO - Processing /opt/airflow/dags/1-bashoperator.py took 0.189 seconds

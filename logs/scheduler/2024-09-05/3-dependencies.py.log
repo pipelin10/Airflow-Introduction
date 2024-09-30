@@ -1,0 +1,868 @@
+[2024-09-05 00:00:05,740] {processor.py:153} INFO - Started process (PID=14353) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:00:05,741] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:00:05,742] {logging_mixin.py:115} INFO - [2024-09-05 00:00:05,742] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:00:05,748] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:00:05,763] {logging_mixin.py:115} INFO - [2024-09-05 00:00:05,763] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:00:05,776] {logging_mixin.py:115} INFO - [2024-09-05 00:00:05,776] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:00:05,785] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:00:36,250] {processor.py:153} INFO - Started process (PID=14392) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:00:36,251] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:00:36,252] {logging_mixin.py:115} INFO - [2024-09-05 00:00:36,252] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:00:36,259] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:00:36,278] {logging_mixin.py:115} INFO - [2024-09-05 00:00:36,277] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:00:36,295] {logging_mixin.py:115} INFO - [2024-09-05 00:00:36,294] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:00:36,306] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.058 seconds
+[2024-09-05 00:01:06,770] {processor.py:153} INFO - Started process (PID=14422) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:01:06,771] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:01:06,772] {logging_mixin.py:115} INFO - [2024-09-05 00:01:06,772] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:01:06,779] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:01:06,795] {logging_mixin.py:115} INFO - [2024-09-05 00:01:06,795] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:01:06,809] {logging_mixin.py:115} INFO - [2024-09-05 00:01:06,809] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:01:06,816] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.048 seconds
+[2024-09-05 00:01:37,278] {processor.py:153} INFO - Started process (PID=14462) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:01:37,278] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:01:37,279] {logging_mixin.py:115} INFO - [2024-09-05 00:01:37,279] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:01:37,284] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:01:37,299] {logging_mixin.py:115} INFO - [2024-09-05 00:01:37,299] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:01:37,311] {logging_mixin.py:115} INFO - [2024-09-05 00:01:37,311] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:01:37,319] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:02:07,740] {processor.py:153} INFO - Started process (PID=14500) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:02:07,740] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:02:07,741] {logging_mixin.py:115} INFO - [2024-09-05 00:02:07,741] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:02:07,746] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:02:07,761] {logging_mixin.py:115} INFO - [2024-09-05 00:02:07,761] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:02:07,773] {logging_mixin.py:115} INFO - [2024-09-05 00:02:07,773] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:02:07,780] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:02:38,245] {processor.py:153} INFO - Started process (PID=14539) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:02:38,245] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:02:38,246] {logging_mixin.py:115} INFO - [2024-09-05 00:02:38,245] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:02:38,251] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:02:38,266] {logging_mixin.py:115} INFO - [2024-09-05 00:02:38,266] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:02:38,278] {logging_mixin.py:115} INFO - [2024-09-05 00:02:38,278] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:02:38,285] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.042 seconds
+[2024-09-05 00:03:08,740] {processor.py:153} INFO - Started process (PID=14577) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:03:08,740] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:03:08,741] {logging_mixin.py:115} INFO - [2024-09-05 00:03:08,741] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:03:08,747] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:03:08,763] {logging_mixin.py:115} INFO - [2024-09-05 00:03:08,763] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:03:08,776] {logging_mixin.py:115} INFO - [2024-09-05 00:03:08,776] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:03:08,783] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:03:39,196] {processor.py:153} INFO - Started process (PID=14616) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:03:39,197] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:03:39,197] {logging_mixin.py:115} INFO - [2024-09-05 00:03:39,197] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:03:39,208] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:03:39,227] {logging_mixin.py:115} INFO - [2024-09-05 00:03:39,227] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:03:39,245] {logging_mixin.py:115} INFO - [2024-09-05 00:03:39,245] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:03:39,254] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.060 seconds
+[2024-09-05 00:04:09,718] {processor.py:153} INFO - Started process (PID=14646) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:04:09,719] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:04:09,719] {logging_mixin.py:115} INFO - [2024-09-05 00:04:09,719] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:04:09,725] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:04:09,743] {logging_mixin.py:115} INFO - [2024-09-05 00:04:09,742] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:04:09,756] {logging_mixin.py:115} INFO - [2024-09-05 00:04:09,756] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:04:09,764] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:04:40,223] {processor.py:153} INFO - Started process (PID=14684) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:04:40,224] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:04:40,224] {logging_mixin.py:115} INFO - [2024-09-05 00:04:40,224] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:04:40,230] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:04:40,245] {logging_mixin.py:115} INFO - [2024-09-05 00:04:40,245] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:04:40,257] {logging_mixin.py:115} INFO - [2024-09-05 00:04:40,257] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:04:40,264] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:05:10,724] {processor.py:153} INFO - Started process (PID=14723) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:05:10,725] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:05:10,725] {logging_mixin.py:115} INFO - [2024-09-05 00:05:10,725] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:05:10,731] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:05:10,747] {logging_mixin.py:115} INFO - [2024-09-05 00:05:10,747] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:05:10,760] {logging_mixin.py:115} INFO - [2024-09-05 00:05:10,760] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:05:10,768] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:05:41,179] {processor.py:153} INFO - Started process (PID=14762) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:05:41,179] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:05:41,180] {logging_mixin.py:115} INFO - [2024-09-05 00:05:41,180] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:05:41,186] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:05:41,200] {logging_mixin.py:115} INFO - [2024-09-05 00:05:41,200] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:05:41,213] {logging_mixin.py:115} INFO - [2024-09-05 00:05:41,213] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:05:41,220] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:06:11,640] {processor.py:153} INFO - Started process (PID=14801) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:06:11,640] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:06:11,641] {logging_mixin.py:115} INFO - [2024-09-05 00:06:11,641] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:06:11,646] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:06:11,661] {logging_mixin.py:115} INFO - [2024-09-05 00:06:11,661] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:06:11,675] {logging_mixin.py:115} INFO - [2024-09-05 00:06:11,674] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:06:11,682] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:06:42,130] {processor.py:153} INFO - Started process (PID=14840) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:06:42,130] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:06:42,131] {logging_mixin.py:115} INFO - [2024-09-05 00:06:42,130] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:06:42,136] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:06:42,153] {logging_mixin.py:115} INFO - [2024-09-05 00:06:42,153] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:06:42,167] {logging_mixin.py:115} INFO - [2024-09-05 00:06:42,167] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:06:42,176] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.048 seconds
+[2024-09-05 00:07:12,592] {processor.py:153} INFO - Started process (PID=14870) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:07:12,593] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:07:12,593] {logging_mixin.py:115} INFO - [2024-09-05 00:07:12,593] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:07:12,599] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:07:12,615] {logging_mixin.py:115} INFO - [2024-09-05 00:07:12,615] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:07:12,628] {logging_mixin.py:115} INFO - [2024-09-05 00:07:12,628] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:07:12,635] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:07:43,093] {processor.py:153} INFO - Started process (PID=14909) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:07:43,093] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:07:43,094] {logging_mixin.py:115} INFO - [2024-09-05 00:07:43,094] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:07:43,099] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:07:43,114] {logging_mixin.py:115} INFO - [2024-09-05 00:07:43,114] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:07:43,126] {logging_mixin.py:115} INFO - [2024-09-05 00:07:43,126] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:07:43,133] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.042 seconds
+[2024-09-05 00:08:13,551] {processor.py:153} INFO - Started process (PID=14945) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:08:13,552] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:08:13,552] {logging_mixin.py:115} INFO - [2024-09-05 00:08:13,552] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:08:13,557] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:08:13,573] {logging_mixin.py:115} INFO - [2024-09-05 00:08:13,573] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:08:13,588] {logging_mixin.py:115} INFO - [2024-09-05 00:08:13,587] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:08:13,596] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:08:44,060] {processor.py:153} INFO - Started process (PID=14983) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:08:44,063] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:08:44,063] {logging_mixin.py:115} INFO - [2024-09-05 00:08:44,063] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:08:44,072] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:08:44,088] {logging_mixin.py:115} INFO - [2024-09-05 00:08:44,088] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:08:44,101] {logging_mixin.py:115} INFO - [2024-09-05 00:08:44,100] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:08:44,108] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.050 seconds
+[2024-09-05 00:09:14,516] {processor.py:153} INFO - Started process (PID=15022) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:09:14,516] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:09:14,517] {logging_mixin.py:115} INFO - [2024-09-05 00:09:14,517] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:09:14,523] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:09:14,538] {logging_mixin.py:115} INFO - [2024-09-05 00:09:14,538] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:09:14,550] {logging_mixin.py:115} INFO - [2024-09-05 00:09:14,550] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:09:14,557] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:09:45,047] {processor.py:153} INFO - Started process (PID=15061) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:09:45,048] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:09:45,048] {logging_mixin.py:115} INFO - [2024-09-05 00:09:45,048] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:09:45,055] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:09:45,070] {logging_mixin.py:115} INFO - [2024-09-05 00:09:45,070] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:09:45,084] {logging_mixin.py:115} INFO - [2024-09-05 00:09:45,083] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:09:45,092] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:10:15,501] {processor.py:153} INFO - Started process (PID=15091) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:10:15,501] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:10:15,501] {logging_mixin.py:115} INFO - [2024-09-05 00:10:15,501] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:10:15,511] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:10:15,537] {logging_mixin.py:115} INFO - [2024-09-05 00:10:15,537] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:10:15,553] {logging_mixin.py:115} INFO - [2024-09-05 00:10:15,553] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:10:15,562] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.064 seconds
+[2024-09-05 00:10:45,987] {processor.py:153} INFO - Started process (PID=15130) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:10:45,988] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:10:45,988] {logging_mixin.py:115} INFO - [2024-09-05 00:10:45,988] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:10:45,993] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:10:46,008] {logging_mixin.py:115} INFO - [2024-09-05 00:10:46,008] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:10:46,021] {logging_mixin.py:115} INFO - [2024-09-05 00:10:46,021] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:10:46,028] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:11:16,502] {processor.py:153} INFO - Started process (PID=15169) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:11:16,502] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:11:16,503] {logging_mixin.py:115} INFO - [2024-09-05 00:11:16,502] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:11:16,509] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:11:16,524] {logging_mixin.py:115} INFO - [2024-09-05 00:11:16,524] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:11:16,537] {logging_mixin.py:115} INFO - [2024-09-05 00:11:16,537] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:11:16,547] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.048 seconds
+[2024-09-05 00:11:47,024] {processor.py:153} INFO - Started process (PID=15208) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:11:47,025] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:11:47,025] {logging_mixin.py:115} INFO - [2024-09-05 00:11:47,025] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:11:47,032] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:11:47,047] {logging_mixin.py:115} INFO - [2024-09-05 00:11:47,047] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:11:47,061] {logging_mixin.py:115} INFO - [2024-09-05 00:11:47,061] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:11:47,068] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:12:17,490] {processor.py:153} INFO - Started process (PID=15248) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:12:17,490] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:12:17,491] {logging_mixin.py:115} INFO - [2024-09-05 00:12:17,491] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:12:17,497] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:12:17,512] {logging_mixin.py:115} INFO - [2024-09-05 00:12:17,512] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:12:17,525] {logging_mixin.py:115} INFO - [2024-09-05 00:12:17,525] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:12:17,532] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:12:47,985] {processor.py:153} INFO - Started process (PID=15287) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:12:47,986] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:12:47,987] {logging_mixin.py:115} INFO - [2024-09-05 00:12:47,987] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:12:47,996] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:12:48,012] {logging_mixin.py:115} INFO - [2024-09-05 00:12:48,012] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:12:48,027] {logging_mixin.py:115} INFO - [2024-09-05 00:12:48,027] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:12:48,037] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.053 seconds
+[2024-09-05 00:13:18,489] {processor.py:153} INFO - Started process (PID=15316) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:13:18,489] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:13:18,489] {logging_mixin.py:115} INFO - [2024-09-05 00:13:18,489] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:13:18,495] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:13:18,510] {logging_mixin.py:115} INFO - [2024-09-05 00:13:18,510] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:13:18,523] {logging_mixin.py:115} INFO - [2024-09-05 00:13:18,523] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:13:18,530] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:13:49,003] {processor.py:153} INFO - Started process (PID=15355) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:13:49,003] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:13:49,003] {logging_mixin.py:115} INFO - [2024-09-05 00:13:49,003] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:13:49,009] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:13:49,029] {logging_mixin.py:115} INFO - [2024-09-05 00:13:49,029] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:13:49,044] {logging_mixin.py:115} INFO - [2024-09-05 00:13:49,044] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:13:49,051] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.051 seconds
+[2024-09-05 00:14:19,481] {processor.py:153} INFO - Started process (PID=15393) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:14:19,482] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:14:19,482] {logging_mixin.py:115} INFO - [2024-09-05 00:14:19,482] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:14:19,488] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:14:19,504] {logging_mixin.py:115} INFO - [2024-09-05 00:14:19,503] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:14:19,516] {logging_mixin.py:115} INFO - [2024-09-05 00:14:19,516] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:14:19,523] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:14:49,984] {processor.py:153} INFO - Started process (PID=15432) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:14:49,984] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:14:49,984] {logging_mixin.py:115} INFO - [2024-09-05 00:14:49,984] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:14:49,990] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:14:50,005] {logging_mixin.py:115} INFO - [2024-09-05 00:14:50,005] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:14:50,017] {logging_mixin.py:115} INFO - [2024-09-05 00:14:50,017] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:14:50,024] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.042 seconds
+[2024-09-05 00:15:20,489] {processor.py:153} INFO - Started process (PID=15471) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:15:20,490] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:15:20,490] {logging_mixin.py:115} INFO - [2024-09-05 00:15:20,490] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:15:20,496] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:15:20,511] {logging_mixin.py:115} INFO - [2024-09-05 00:15:20,511] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:15:20,523] {logging_mixin.py:115} INFO - [2024-09-05 00:15:20,523] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:15:20,531] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:15:50,940] {processor.py:153} INFO - Started process (PID=15510) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:15:50,940] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:15:50,941] {logging_mixin.py:115} INFO - [2024-09-05 00:15:50,940] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:15:50,946] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:15:50,962] {logging_mixin.py:115} INFO - [2024-09-05 00:15:50,962] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:15:50,976] {logging_mixin.py:115} INFO - [2024-09-05 00:15:50,976] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:15:50,983] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:16:21,371] {processor.py:153} INFO - Started process (PID=15540) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:16:21,373] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:16:21,373] {logging_mixin.py:115} INFO - [2024-09-05 00:16:21,373] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:16:21,379] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:16:21,396] {logging_mixin.py:115} INFO - [2024-09-05 00:16:21,396] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:16:21,411] {logging_mixin.py:115} INFO - [2024-09-05 00:16:21,411] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:16:21,419] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.050 seconds
+[2024-09-05 00:16:51,843] {processor.py:153} INFO - Started process (PID=15579) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:16:51,843] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:16:51,843] {logging_mixin.py:115} INFO - [2024-09-05 00:16:51,843] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:16:51,849] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:16:51,866] {logging_mixin.py:115} INFO - [2024-09-05 00:16:51,866] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:16:51,881] {logging_mixin.py:115} INFO - [2024-09-05 00:16:51,881] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:16:51,889] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.048 seconds
+[2024-09-05 00:17:22,308] {processor.py:153} INFO - Started process (PID=15617) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:17:22,308] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:17:22,308] {logging_mixin.py:115} INFO - [2024-09-05 00:17:22,308] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:17:22,314] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:17:22,330] {logging_mixin.py:115} INFO - [2024-09-05 00:17:22,330] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:17:22,345] {logging_mixin.py:115} INFO - [2024-09-05 00:17:22,345] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:17:22,352] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:17:52,745] {processor.py:153} INFO - Started process (PID=15656) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:17:52,746] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:17:52,746] {logging_mixin.py:115} INFO - [2024-09-05 00:17:52,746] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:17:52,752] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:17:52,768] {logging_mixin.py:115} INFO - [2024-09-05 00:17:52,768] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:17:52,790] {logging_mixin.py:115} INFO - [2024-09-05 00:17:52,790] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:17:52,798] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.055 seconds
+[2024-09-05 00:18:23,257] {processor.py:153} INFO - Started process (PID=15695) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:18:23,258] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:18:23,258] {logging_mixin.py:115} INFO - [2024-09-05 00:18:23,258] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:18:23,264] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:18:23,278] {logging_mixin.py:115} INFO - [2024-09-05 00:18:23,278] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:18:23,291] {logging_mixin.py:115} INFO - [2024-09-05 00:18:23,291] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:18:23,299] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:18:53,746] {processor.py:153} INFO - Started process (PID=15734) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:18:53,747] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:18:53,747] {logging_mixin.py:115} INFO - [2024-09-05 00:18:53,747] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:18:53,753] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:18:53,770] {logging_mixin.py:115} INFO - [2024-09-05 00:18:53,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:18:53,784] {logging_mixin.py:115} INFO - [2024-09-05 00:18:53,784] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:18:53,792] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.050 seconds
+[2024-09-05 00:19:24,236] {processor.py:153} INFO - Started process (PID=15764) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:19:24,237] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:19:24,237] {logging_mixin.py:115} INFO - [2024-09-05 00:19:24,237] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:19:24,243] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:19:24,262] {logging_mixin.py:115} INFO - [2024-09-05 00:19:24,262] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:19:24,276] {logging_mixin.py:115} INFO - [2024-09-05 00:19:24,275] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:19:24,283] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.049 seconds
+[2024-09-05 00:19:54,721] {processor.py:153} INFO - Started process (PID=15802) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:19:54,722] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:19:54,722] {logging_mixin.py:115} INFO - [2024-09-05 00:19:54,722] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:19:54,729] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:19:54,745] {logging_mixin.py:115} INFO - [2024-09-05 00:19:54,745] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:19:54,758] {logging_mixin.py:115} INFO - [2024-09-05 00:19:54,758] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:19:54,766] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:20:25,165] {processor.py:153} INFO - Started process (PID=15841) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:20:25,166] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:20:25,166] {logging_mixin.py:115} INFO - [2024-09-05 00:20:25,166] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:20:25,172] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:20:25,189] {logging_mixin.py:115} INFO - [2024-09-05 00:20:25,189] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:20:25,203] {logging_mixin.py:115} INFO - [2024-09-05 00:20:25,203] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:20:25,211] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.048 seconds
+[2024-09-05 00:20:55,629] {processor.py:153} INFO - Started process (PID=15880) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:20:55,630] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:20:55,630] {logging_mixin.py:115} INFO - [2024-09-05 00:20:55,630] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:20:55,636] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:20:55,651] {logging_mixin.py:115} INFO - [2024-09-05 00:20:55,651] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:20:55,664] {logging_mixin.py:115} INFO - [2024-09-05 00:20:55,663] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:20:55,671] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:21:26,085] {processor.py:153} INFO - Started process (PID=15919) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:21:26,086] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:21:26,087] {logging_mixin.py:115} INFO - [2024-09-05 00:21:26,086] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:21:26,093] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:21:26,108] {logging_mixin.py:115} INFO - [2024-09-05 00:21:26,108] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:21:26,121] {logging_mixin.py:115} INFO - [2024-09-05 00:21:26,121] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:21:26,129] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:21:56,569] {processor.py:153} INFO - Started process (PID=15956) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:21:56,570] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:21:56,570] {logging_mixin.py:115} INFO - [2024-09-05 00:21:56,570] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:21:56,576] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:21:56,594] {logging_mixin.py:115} INFO - [2024-09-05 00:21:56,594] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:21:56,610] {logging_mixin.py:115} INFO - [2024-09-05 00:21:56,610] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:21:56,619] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.052 seconds
+[2024-09-05 00:22:27,097] {processor.py:153} INFO - Started process (PID=15987) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:22:27,097] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:22:27,098] {logging_mixin.py:115} INFO - [2024-09-05 00:22:27,098] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:22:27,104] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:22:27,119] {logging_mixin.py:115} INFO - [2024-09-05 00:22:27,119] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:22:27,132] {logging_mixin.py:115} INFO - [2024-09-05 00:22:27,132] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:22:27,140] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:22:57,566] {processor.py:153} INFO - Started process (PID=16026) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:22:57,567] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:22:57,567] {logging_mixin.py:115} INFO - [2024-09-05 00:22:57,567] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:22:57,573] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:22:57,589] {logging_mixin.py:115} INFO - [2024-09-05 00:22:57,589] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:22:57,601] {logging_mixin.py:115} INFO - [2024-09-05 00:22:57,601] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:22:57,608] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:23:28,077] {processor.py:153} INFO - Started process (PID=16064) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:23:28,077] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:23:28,077] {logging_mixin.py:115} INFO - [2024-09-05 00:23:28,077] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:23:28,084] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:23:28,101] {logging_mixin.py:115} INFO - [2024-09-05 00:23:28,101] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:23:28,114] {logging_mixin.py:115} INFO - [2024-09-05 00:23:28,114] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:23:28,122] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:23:58,582] {processor.py:153} INFO - Started process (PID=16103) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:23:58,582] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:23:58,583] {logging_mixin.py:115} INFO - [2024-09-05 00:23:58,583] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:23:58,589] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:23:58,604] {logging_mixin.py:115} INFO - [2024-09-05 00:23:58,604] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:23:58,618] {logging_mixin.py:115} INFO - [2024-09-05 00:23:58,618] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:23:58,625] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:24:29,061] {processor.py:153} INFO - Started process (PID=16142) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:24:29,062] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:24:29,062] {logging_mixin.py:115} INFO - [2024-09-05 00:24:29,062] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:24:29,069] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:24:29,085] {logging_mixin.py:115} INFO - [2024-09-05 00:24:29,085] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:24:29,097] {logging_mixin.py:115} INFO - [2024-09-05 00:24:29,097] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:24:29,105] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:24:59,477] {processor.py:153} INFO - Started process (PID=16172) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:24:59,478] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:24:59,478] {logging_mixin.py:115} INFO - [2024-09-05 00:24:59,478] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:24:59,484] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:24:59,502] {logging_mixin.py:115} INFO - [2024-09-05 00:24:59,502] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:24:59,526] {logging_mixin.py:115} INFO - [2024-09-05 00:24:59,526] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:24:59,537] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.062 seconds
+[2024-09-05 00:25:29,994] {processor.py:153} INFO - Started process (PID=16211) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:25:29,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:25:29,995] {logging_mixin.py:115} INFO - [2024-09-05 00:25:29,995] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:25:30,001] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:25:30,015] {logging_mixin.py:115} INFO - [2024-09-05 00:25:30,015] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:25:30,028] {logging_mixin.py:115} INFO - [2024-09-05 00:25:30,028] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:25:30,035] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:26:00,476] {processor.py:153} INFO - Started process (PID=16249) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:26:00,477] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:26:00,477] {logging_mixin.py:115} INFO - [2024-09-05 00:26:00,477] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:26:00,483] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:26:00,500] {logging_mixin.py:115} INFO - [2024-09-05 00:26:00,500] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:26:00,517] {logging_mixin.py:115} INFO - [2024-09-05 00:26:00,517] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:26:00,526] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.052 seconds
+[2024-09-05 00:26:30,983] {processor.py:153} INFO - Started process (PID=16288) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:26:30,983] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:26:30,984] {logging_mixin.py:115} INFO - [2024-09-05 00:26:30,984] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:26:30,990] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:26:31,006] {logging_mixin.py:115} INFO - [2024-09-05 00:26:31,006] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:26:31,019] {logging_mixin.py:115} INFO - [2024-09-05 00:26:31,019] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:26:31,027] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:27:01,438] {processor.py:153} INFO - Started process (PID=16327) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:27:01,439] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:27:01,439] {logging_mixin.py:115} INFO - [2024-09-05 00:27:01,439] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:27:01,445] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:27:01,460] {logging_mixin.py:115} INFO - [2024-09-05 00:27:01,460] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:27:01,474] {logging_mixin.py:115} INFO - [2024-09-05 00:27:01,474] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:27:01,482] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:27:31,967] {processor.py:153} INFO - Started process (PID=16366) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:27:31,968] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:27:31,968] {logging_mixin.py:115} INFO - [2024-09-05 00:27:31,968] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:27:31,974] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:27:31,989] {logging_mixin.py:115} INFO - [2024-09-05 00:27:31,989] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:27:32,001] {logging_mixin.py:115} INFO - [2024-09-05 00:27:32,001] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:27:32,008] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:28:02,471] {processor.py:153} INFO - Started process (PID=16396) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:28:02,472] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:28:02,472] {logging_mixin.py:115} INFO - [2024-09-05 00:28:02,472] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:28:02,478] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:28:02,495] {logging_mixin.py:115} INFO - [2024-09-05 00:28:02,495] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:28:02,515] {logging_mixin.py:115} INFO - [2024-09-05 00:28:02,515] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:28:02,525] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.056 seconds
+[2024-09-05 00:28:32,958] {processor.py:153} INFO - Started process (PID=16434) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:28:32,959] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:28:32,960] {logging_mixin.py:115} INFO - [2024-09-05 00:28:32,959] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:28:32,971] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:28:32,992] {logging_mixin.py:115} INFO - [2024-09-05 00:28:32,991] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:28:33,007] {logging_mixin.py:115} INFO - [2024-09-05 00:28:33,007] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:28:33,016] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.061 seconds
+[2024-09-05 00:29:03,415] {processor.py:153} INFO - Started process (PID=16473) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:29:03,416] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:29:03,416] {logging_mixin.py:115} INFO - [2024-09-05 00:29:03,416] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:29:03,423] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:29:03,438] {logging_mixin.py:115} INFO - [2024-09-05 00:29:03,438] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:29:03,450] {logging_mixin.py:115} INFO - [2024-09-05 00:29:03,450] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:29:03,458] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:29:33,883] {processor.py:153} INFO - Started process (PID=16512) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:29:33,884] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:29:33,884] {logging_mixin.py:115} INFO - [2024-09-05 00:29:33,884] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:29:33,890] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:29:33,904] {logging_mixin.py:115} INFO - [2024-09-05 00:29:33,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:29:33,916] {logging_mixin.py:115} INFO - [2024-09-05 00:29:33,916] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:29:33,923] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.041 seconds
+[2024-09-05 00:30:04,335] {processor.py:153} INFO - Started process (PID=16551) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:30:04,335] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:30:04,336] {logging_mixin.py:115} INFO - [2024-09-05 00:30:04,336] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:30:04,342] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:30:04,357] {logging_mixin.py:115} INFO - [2024-09-05 00:30:04,357] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:30:04,369] {logging_mixin.py:115} INFO - [2024-09-05 00:30:04,369] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:30:04,377] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:30:34,794] {processor.py:153} INFO - Started process (PID=16590) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:30:34,794] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:30:34,795] {logging_mixin.py:115} INFO - [2024-09-05 00:30:34,795] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:30:34,800] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:30:34,815] {logging_mixin.py:115} INFO - [2024-09-05 00:30:34,815] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:30:34,829] {logging_mixin.py:115} INFO - [2024-09-05 00:30:34,829] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:30:34,836] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:31:05,256] {processor.py:153} INFO - Started process (PID=16620) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:31:05,257] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:31:05,257] {logging_mixin.py:115} INFO - [2024-09-05 00:31:05,257] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:31:05,263] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:31:05,278] {logging_mixin.py:115} INFO - [2024-09-05 00:31:05,278] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:31:05,290] {logging_mixin.py:115} INFO - [2024-09-05 00:31:05,290] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:31:05,298] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:31:35,757] {processor.py:153} INFO - Started process (PID=16658) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:31:35,758] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:31:35,758] {logging_mixin.py:115} INFO - [2024-09-05 00:31:35,758] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:31:35,764] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:31:35,779] {logging_mixin.py:115} INFO - [2024-09-05 00:31:35,779] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:31:35,791] {logging_mixin.py:115} INFO - [2024-09-05 00:31:35,791] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:31:35,798] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:32:06,226] {processor.py:153} INFO - Started process (PID=16696) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:32:06,226] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:32:06,226] {logging_mixin.py:115} INFO - [2024-09-05 00:32:06,226] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:32:06,232] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:32:06,248] {logging_mixin.py:115} INFO - [2024-09-05 00:32:06,248] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:32:06,260] {logging_mixin.py:115} INFO - [2024-09-05 00:32:06,260] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:32:06,269] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:32:36,688] {processor.py:153} INFO - Started process (PID=16735) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:32:36,688] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:32:36,688] {logging_mixin.py:115} INFO - [2024-09-05 00:32:36,688] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:32:36,696] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:32:36,712] {logging_mixin.py:115} INFO - [2024-09-05 00:32:36,711] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:32:36,725] {logging_mixin.py:115} INFO - [2024-09-05 00:32:36,725] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:32:36,732] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:33:07,203] {processor.py:153} INFO - Started process (PID=16774) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:33:07,204] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:33:07,204] {logging_mixin.py:115} INFO - [2024-09-05 00:33:07,204] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:33:07,214] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:33:07,233] {logging_mixin.py:115} INFO - [2024-09-05 00:33:07,233] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:33:07,248] {logging_mixin.py:115} INFO - [2024-09-05 00:33:07,248] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:33:07,255] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.054 seconds
+[2024-09-05 00:33:37,708] {processor.py:153} INFO - Started process (PID=16813) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:33:37,708] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:33:37,709] {logging_mixin.py:115} INFO - [2024-09-05 00:33:37,709] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:33:37,716] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:33:37,731] {logging_mixin.py:115} INFO - [2024-09-05 00:33:37,731] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:33:37,746] {logging_mixin.py:115} INFO - [2024-09-05 00:33:37,746] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:33:37,753] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.050 seconds
+[2024-09-05 00:34:08,156] {processor.py:153} INFO - Started process (PID=16842) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:34:08,156] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:34:08,157] {logging_mixin.py:115} INFO - [2024-09-05 00:34:08,156] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:34:08,162] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:34:08,186] {logging_mixin.py:115} INFO - [2024-09-05 00:34:08,186] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:34:08,203] {logging_mixin.py:115} INFO - [2024-09-05 00:34:08,203] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:34:08,211] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.058 seconds
+[2024-09-05 00:34:38,640] {processor.py:153} INFO - Started process (PID=16881) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:34:38,641] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:34:38,641] {logging_mixin.py:115} INFO - [2024-09-05 00:34:38,641] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:34:38,650] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:34:38,667] {logging_mixin.py:115} INFO - [2024-09-05 00:34:38,667] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:34:38,680] {logging_mixin.py:115} INFO - [2024-09-05 00:34:38,680] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:34:38,693] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.055 seconds
+[2024-09-05 00:35:09,172] {processor.py:153} INFO - Started process (PID=16919) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:35:09,172] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:35:09,173] {logging_mixin.py:115} INFO - [2024-09-05 00:35:09,173] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:35:09,179] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:35:09,195] {logging_mixin.py:115} INFO - [2024-09-05 00:35:09,194] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:35:09,207] {logging_mixin.py:115} INFO - [2024-09-05 00:35:09,207] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:35:09,215] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:35:39,682] {processor.py:153} INFO - Started process (PID=16957) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:35:39,683] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:35:39,683] {logging_mixin.py:115} INFO - [2024-09-05 00:35:39,683] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:35:39,688] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:35:39,703] {logging_mixin.py:115} INFO - [2024-09-05 00:35:39,703] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:35:39,715] {logging_mixin.py:115} INFO - [2024-09-05 00:35:39,715] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:35:39,722] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.042 seconds
+[2024-09-05 00:36:10,114] {processor.py:153} INFO - Started process (PID=16995) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:36:10,114] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:36:10,115] {logging_mixin.py:115} INFO - [2024-09-05 00:36:10,115] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:36:10,120] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:36:10,136] {logging_mixin.py:115} INFO - [2024-09-05 00:36:10,136] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:36:10,148] {logging_mixin.py:115} INFO - [2024-09-05 00:36:10,148] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:36:10,154] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.042 seconds
+[2024-09-05 00:36:40,616] {processor.py:153} INFO - Started process (PID=17034) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:36:40,617] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:36:40,617] {logging_mixin.py:115} INFO - [2024-09-05 00:36:40,617] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:36:40,624] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:36:40,640] {logging_mixin.py:115} INFO - [2024-09-05 00:36:40,640] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:36:40,658] {logging_mixin.py:115} INFO - [2024-09-05 00:36:40,658] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:36:40,666] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.052 seconds
+[2024-09-05 00:37:11,131] {processor.py:153} INFO - Started process (PID=17064) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:37:11,132] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:37:11,132] {logging_mixin.py:115} INFO - [2024-09-05 00:37:11,132] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:37:11,138] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:37:11,155] {logging_mixin.py:115} INFO - [2024-09-05 00:37:11,155] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:37:11,168] {logging_mixin.py:115} INFO - [2024-09-05 00:37:11,168] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:37:11,175] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:37:41,646] {processor.py:153} INFO - Started process (PID=17103) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:37:41,647] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:37:41,647] {logging_mixin.py:115} INFO - [2024-09-05 00:37:41,647] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:37:41,653] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:37:41,668] {logging_mixin.py:115} INFO - [2024-09-05 00:37:41,668] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:37:41,681] {logging_mixin.py:115} INFO - [2024-09-05 00:37:41,680] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:37:41,687] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:38:12,128] {processor.py:153} INFO - Started process (PID=17142) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:38:12,131] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:38:12,132] {logging_mixin.py:115} INFO - [2024-09-05 00:38:12,132] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:38:12,137] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:38:12,153] {logging_mixin.py:115} INFO - [2024-09-05 00:38:12,153] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:38:12,167] {logging_mixin.py:115} INFO - [2024-09-05 00:38:12,166] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:38:12,174] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.048 seconds
+[2024-09-05 00:38:42,637] {processor.py:153} INFO - Started process (PID=17181) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:38:42,637] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:38:42,638] {logging_mixin.py:115} INFO - [2024-09-05 00:38:42,638] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:38:42,645] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:38:42,661] {logging_mixin.py:115} INFO - [2024-09-05 00:38:42,661] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:38:42,673] {logging_mixin.py:115} INFO - [2024-09-05 00:38:42,673] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:38:42,681] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:39:13,103] {processor.py:153} INFO - Started process (PID=17219) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:39:13,103] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:39:13,104] {logging_mixin.py:115} INFO - [2024-09-05 00:39:13,104] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:39:13,109] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:39:13,126] {logging_mixin.py:115} INFO - [2024-09-05 00:39:13,126] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:39:13,139] {logging_mixin.py:115} INFO - [2024-09-05 00:39:13,139] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:39:13,148] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:39:43,577] {processor.py:153} INFO - Started process (PID=17257) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:39:43,577] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:39:43,578] {logging_mixin.py:115} INFO - [2024-09-05 00:39:43,578] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:39:43,588] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:39:43,605] {logging_mixin.py:115} INFO - [2024-09-05 00:39:43,605] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:39:43,620] {logging_mixin.py:115} INFO - [2024-09-05 00:39:43,620] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:39:43,630] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.055 seconds
+[2024-09-05 00:40:14,088] {processor.py:153} INFO - Started process (PID=17287) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:40:14,088] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:40:14,089] {logging_mixin.py:115} INFO - [2024-09-05 00:40:14,089] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:40:14,094] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:40:14,110] {logging_mixin.py:115} INFO - [2024-09-05 00:40:14,110] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:40:14,123] {logging_mixin.py:115} INFO - [2024-09-05 00:40:14,123] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:40:14,130] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:40:44,595] {processor.py:153} INFO - Started process (PID=17326) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:40:44,595] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:40:44,595] {logging_mixin.py:115} INFO - [2024-09-05 00:40:44,595] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:40:44,605] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:40:44,623] {logging_mixin.py:115} INFO - [2024-09-05 00:40:44,623] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:40:44,635] {logging_mixin.py:115} INFO - [2024-09-05 00:40:44,635] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:40:44,642] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.050 seconds
+[2024-09-05 00:41:15,116] {processor.py:153} INFO - Started process (PID=17365) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:41:15,116] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:41:15,116] {logging_mixin.py:115} INFO - [2024-09-05 00:41:15,116] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:41:15,122] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:41:15,137] {logging_mixin.py:115} INFO - [2024-09-05 00:41:15,137] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:41:15,152] {logging_mixin.py:115} INFO - [2024-09-05 00:41:15,152] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:41:15,160] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:41:45,583] {processor.py:153} INFO - Started process (PID=17404) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:41:45,583] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:41:45,583] {logging_mixin.py:115} INFO - [2024-09-05 00:41:45,583] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:41:45,589] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:41:45,605] {logging_mixin.py:115} INFO - [2024-09-05 00:41:45,605] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:41:45,618] {logging_mixin.py:115} INFO - [2024-09-05 00:41:45,618] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:41:45,625] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:42:16,092] {processor.py:153} INFO - Started process (PID=17443) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:42:16,092] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:42:16,093] {logging_mixin.py:115} INFO - [2024-09-05 00:42:16,093] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:42:16,098] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:42:16,116] {logging_mixin.py:115} INFO - [2024-09-05 00:42:16,116] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:42:16,128] {logging_mixin.py:115} INFO - [2024-09-05 00:42:16,128] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:42:16,136] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:42:46,592] {processor.py:153} INFO - Started process (PID=17481) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:42:46,594] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:42:46,595] {logging_mixin.py:115} INFO - [2024-09-05 00:42:46,595] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:42:46,602] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:42:46,628] {logging_mixin.py:115} INFO - [2024-09-05 00:42:46,628] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:42:46,648] {logging_mixin.py:115} INFO - [2024-09-05 00:42:46,648] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:42:46,657] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.068 seconds
+[2024-09-05 00:43:17,092] {processor.py:153} INFO - Started process (PID=17511) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:43:17,092] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:43:17,093] {logging_mixin.py:115} INFO - [2024-09-05 00:43:17,092] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:43:17,099] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:43:17,115] {logging_mixin.py:115} INFO - [2024-09-05 00:43:17,115] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:43:17,134] {logging_mixin.py:115} INFO - [2024-09-05 00:43:17,134] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:43:17,143] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.054 seconds
+[2024-09-05 00:43:47,585] {processor.py:153} INFO - Started process (PID=17549) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:43:47,586] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:43:47,586] {logging_mixin.py:115} INFO - [2024-09-05 00:43:47,586] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:43:47,592] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:43:47,607] {logging_mixin.py:115} INFO - [2024-09-05 00:43:47,607] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:43:47,620] {logging_mixin.py:115} INFO - [2024-09-05 00:43:47,620] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:43:47,627] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:44:18,054] {processor.py:153} INFO - Started process (PID=17587) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:44:18,055] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:44:18,055] {logging_mixin.py:115} INFO - [2024-09-05 00:44:18,055] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:44:18,062] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:44:18,085] {logging_mixin.py:115} INFO - [2024-09-05 00:44:18,085] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:44:18,099] {logging_mixin.py:115} INFO - [2024-09-05 00:44:18,099] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:44:18,113] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.061 seconds
+[2024-09-05 00:44:48,587] {processor.py:153} INFO - Started process (PID=17626) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:44:48,587] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:44:48,587] {logging_mixin.py:115} INFO - [2024-09-05 00:44:48,587] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:44:48,593] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:44:48,608] {logging_mixin.py:115} INFO - [2024-09-05 00:44:48,608] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:44:48,621] {logging_mixin.py:115} INFO - [2024-09-05 00:44:48,621] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:44:48,628] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:45:19,072] {processor.py:153} INFO - Started process (PID=17665) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:45:19,072] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:45:19,072] {logging_mixin.py:115} INFO - [2024-09-05 00:45:19,072] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:45:19,079] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:45:19,096] {logging_mixin.py:115} INFO - [2024-09-05 00:45:19,096] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:45:19,109] {logging_mixin.py:115} INFO - [2024-09-05 00:45:19,109] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:45:19,117] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.048 seconds
+[2024-09-05 00:45:49,568] {processor.py:153} INFO - Started process (PID=17704) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:45:49,568] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:45:49,569] {logging_mixin.py:115} INFO - [2024-09-05 00:45:49,568] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:45:49,575] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:45:49,593] {logging_mixin.py:115} INFO - [2024-09-05 00:45:49,593] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:45:49,612] {logging_mixin.py:115} INFO - [2024-09-05 00:45:49,612] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:45:49,620] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.055 seconds
+[2024-09-05 00:46:20,040] {processor.py:153} INFO - Started process (PID=17734) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:46:20,040] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:46:20,040] {logging_mixin.py:115} INFO - [2024-09-05 00:46:20,040] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:46:20,046] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:46:20,064] {logging_mixin.py:115} INFO - [2024-09-05 00:46:20,063] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:46:20,078] {logging_mixin.py:115} INFO - [2024-09-05 00:46:20,078] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:46:20,087] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.050 seconds
+[2024-09-05 00:46:50,559] {processor.py:153} INFO - Started process (PID=17773) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:46:50,560] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:46:50,560] {logging_mixin.py:115} INFO - [2024-09-05 00:46:50,560] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:46:50,566] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:46:50,581] {logging_mixin.py:115} INFO - [2024-09-05 00:46:50,581] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:46:50,594] {logging_mixin.py:115} INFO - [2024-09-05 00:46:50,594] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:46:50,602] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:47:21,086] {processor.py:153} INFO - Started process (PID=17812) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:47:21,086] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:47:21,087] {logging_mixin.py:115} INFO - [2024-09-05 00:47:21,086] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:47:21,092] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:47:21,108] {logging_mixin.py:115} INFO - [2024-09-05 00:47:21,108] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:47:21,121] {logging_mixin.py:115} INFO - [2024-09-05 00:47:21,121] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:47:21,129] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:47:51,591] {processor.py:153} INFO - Started process (PID=17851) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:47:51,591] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:47:51,592] {logging_mixin.py:115} INFO - [2024-09-05 00:47:51,591] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:47:51,597] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:47:51,613] {logging_mixin.py:115} INFO - [2024-09-05 00:47:51,613] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:47:51,626] {logging_mixin.py:115} INFO - [2024-09-05 00:47:51,626] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:47:51,634] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:48:22,093] {processor.py:153} INFO - Started process (PID=17890) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:48:22,093] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:48:22,093] {logging_mixin.py:115} INFO - [2024-09-05 00:48:22,093] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:48:22,099] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:48:22,122] {logging_mixin.py:115} INFO - [2024-09-05 00:48:22,122] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:48:22,138] {logging_mixin.py:115} INFO - [2024-09-05 00:48:22,138] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:48:22,146] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.056 seconds
+[2024-09-05 00:48:52,606] {processor.py:153} INFO - Started process (PID=17929) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:48:52,607] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:48:52,607] {logging_mixin.py:115} INFO - [2024-09-05 00:48:52,607] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:48:52,614] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:48:52,630] {logging_mixin.py:115} INFO - [2024-09-05 00:48:52,630] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:48:52,644] {logging_mixin.py:115} INFO - [2024-09-05 00:48:52,644] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:48:52,653] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.049 seconds
+[2024-09-05 00:49:23,121] {processor.py:153} INFO - Started process (PID=17958) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:49:23,122] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:49:23,122] {logging_mixin.py:115} INFO - [2024-09-05 00:49:23,122] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:49:23,127] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:49:23,145] {logging_mixin.py:115} INFO - [2024-09-05 00:49:23,145] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:49:23,158] {logging_mixin.py:115} INFO - [2024-09-05 00:49:23,158] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:49:23,166] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:49:53,628] {processor.py:153} INFO - Started process (PID=17997) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:49:53,629] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:49:53,629] {logging_mixin.py:115} INFO - [2024-09-05 00:49:53,629] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:49:53,635] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:49:53,651] {logging_mixin.py:115} INFO - [2024-09-05 00:49:53,651] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:49:53,665] {logging_mixin.py:115} INFO - [2024-09-05 00:49:53,665] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:49:53,672] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:50:24,139] {processor.py:153} INFO - Started process (PID=18035) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:50:24,140] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:50:24,140] {logging_mixin.py:115} INFO - [2024-09-05 00:50:24,140] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:50:24,146] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:50:24,163] {logging_mixin.py:115} INFO - [2024-09-05 00:50:24,162] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:50:24,175] {logging_mixin.py:115} INFO - [2024-09-05 00:50:24,175] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:50:24,183] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:50:54,567] {processor.py:153} INFO - Started process (PID=18074) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:50:54,567] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:50:54,568] {logging_mixin.py:115} INFO - [2024-09-05 00:50:54,568] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:50:54,574] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:50:54,592] {logging_mixin.py:115} INFO - [2024-09-05 00:50:54,592] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:50:54,606] {logging_mixin.py:115} INFO - [2024-09-05 00:50:54,606] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:50:54,617] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.052 seconds
+[2024-09-05 00:51:25,071] {processor.py:153} INFO - Started process (PID=18113) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:51:25,071] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:51:25,072] {logging_mixin.py:115} INFO - [2024-09-05 00:51:25,072] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:51:25,078] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:51:25,093] {logging_mixin.py:115} INFO - [2024-09-05 00:51:25,093] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:51:25,106] {logging_mixin.py:115} INFO - [2024-09-05 00:51:25,106] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:51:25,113] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 00:51:55,622] {processor.py:153} INFO - Started process (PID=18152) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:51:55,623] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:51:55,623] {logging_mixin.py:115} INFO - [2024-09-05 00:51:55,623] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:51:55,629] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:51:55,647] {logging_mixin.py:115} INFO - [2024-09-05 00:51:55,647] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:51:55,662] {logging_mixin.py:115} INFO - [2024-09-05 00:51:55,662] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:51:55,670] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.049 seconds
+[2024-09-05 00:52:26,146] {processor.py:153} INFO - Started process (PID=18182) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:52:26,146] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:52:26,147] {logging_mixin.py:115} INFO - [2024-09-05 00:52:26,147] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:52:26,153] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:52:26,170] {logging_mixin.py:115} INFO - [2024-09-05 00:52:26,169] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:52:26,189] {logging_mixin.py:115} INFO - [2024-09-05 00:52:26,189] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:52:26,197] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.054 seconds
+[2024-09-05 00:52:56,612] {processor.py:153} INFO - Started process (PID=18220) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:52:56,612] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:52:56,613] {logging_mixin.py:115} INFO - [2024-09-05 00:52:56,613] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:52:56,619] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:52:56,634] {logging_mixin.py:115} INFO - [2024-09-05 00:52:56,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:52:56,647] {logging_mixin.py:115} INFO - [2024-09-05 00:52:56,647] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:52:56,655] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:53:27,126] {processor.py:153} INFO - Started process (PID=18259) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:53:27,126] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:53:27,127] {logging_mixin.py:115} INFO - [2024-09-05 00:53:27,127] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:53:27,133] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:53:27,150] {logging_mixin.py:115} INFO - [2024-09-05 00:53:27,150] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:53:27,162] {logging_mixin.py:115} INFO - [2024-09-05 00:53:27,162] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:53:27,169] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:53:57,590] {processor.py:153} INFO - Started process (PID=18298) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:53:57,590] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:53:57,590] {logging_mixin.py:115} INFO - [2024-09-05 00:53:57,590] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:53:57,597] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:53:57,615] {logging_mixin.py:115} INFO - [2024-09-05 00:53:57,615] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:53:57,627] {logging_mixin.py:115} INFO - [2024-09-05 00:53:57,627] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:53:57,635] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:54:28,107] {processor.py:153} INFO - Started process (PID=18334) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:54:28,108] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:54:28,108] {logging_mixin.py:115} INFO - [2024-09-05 00:54:28,108] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:54:28,114] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:54:28,130] {logging_mixin.py:115} INFO - [2024-09-05 00:54:28,130] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:54:28,143] {logging_mixin.py:115} INFO - [2024-09-05 00:54:28,143] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:54:28,150] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.045 seconds
+[2024-09-05 00:54:58,549] {processor.py:153} INFO - Started process (PID=18364) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:54:58,549] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:54:58,550] {logging_mixin.py:115} INFO - [2024-09-05 00:54:58,550] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:54:58,556] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:54:58,573] {logging_mixin.py:115} INFO - [2024-09-05 00:54:58,573] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:54:58,586] {logging_mixin.py:115} INFO - [2024-09-05 00:54:58,586] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:54:58,593] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:55:29,063] {processor.py:153} INFO - Started process (PID=18403) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:55:29,064] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:55:29,064] {logging_mixin.py:115} INFO - [2024-09-05 00:55:29,064] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:55:29,070] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:55:29,087] {logging_mixin.py:115} INFO - [2024-09-05 00:55:29,087] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:55:29,100] {logging_mixin.py:115} INFO - [2024-09-05 00:55:29,100] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:55:29,107] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:55:59,578] {processor.py:153} INFO - Started process (PID=18442) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:55:59,581] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:55:59,584] {logging_mixin.py:115} INFO - [2024-09-05 00:55:59,584] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:55:59,590] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:55:59,608] {logging_mixin.py:115} INFO - [2024-09-05 00:55:59,608] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:55:59,621] {logging_mixin.py:115} INFO - [2024-09-05 00:55:59,621] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:55:59,629] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.053 seconds
+[2024-09-05 00:56:30,042] {processor.py:153} INFO - Started process (PID=18480) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:56:30,042] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:56:30,043] {logging_mixin.py:115} INFO - [2024-09-05 00:56:30,043] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:56:30,048] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:56:30,063] {logging_mixin.py:115} INFO - [2024-09-05 00:56:30,063] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:56:30,075] {logging_mixin.py:115} INFO - [2024-09-05 00:56:30,075] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:56:30,082] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.042 seconds
+[2024-09-05 00:57:00,548] {processor.py:153} INFO - Started process (PID=18518) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:57:00,549] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:57:00,549] {logging_mixin.py:115} INFO - [2024-09-05 00:57:00,549] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:57:00,555] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:57:00,571] {logging_mixin.py:115} INFO - [2024-09-05 00:57:00,571] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:57:00,584] {logging_mixin.py:115} INFO - [2024-09-05 00:57:00,584] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:57:00,593] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:57:31,028] {processor.py:153} INFO - Started process (PID=18556) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:57:31,029] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:57:31,029] {logging_mixin.py:115} INFO - [2024-09-05 00:57:31,029] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:57:31,035] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:57:31,051] {logging_mixin.py:115} INFO - [2024-09-05 00:57:31,051] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:57:31,064] {logging_mixin.py:115} INFO - [2024-09-05 00:57:31,064] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:57:31,072] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:58:01,489] {processor.py:153} INFO - Started process (PID=18586) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:58:01,490] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:58:01,490] {logging_mixin.py:115} INFO - [2024-09-05 00:58:01,490] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:58:01,496] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:58:01,510] {logging_mixin.py:115} INFO - [2024-09-05 00:58:01,510] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:58:01,523] {logging_mixin.py:115} INFO - [2024-09-05 00:58:01,523] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:58:01,530] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.043 seconds
+[2024-09-05 00:58:31,960] {processor.py:153} INFO - Started process (PID=18624) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:58:31,961] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:58:31,961] {logging_mixin.py:115} INFO - [2024-09-05 00:58:31,961] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:58:31,967] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:58:31,983] {logging_mixin.py:115} INFO - [2024-09-05 00:58:31,983] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:58:31,996] {logging_mixin.py:115} INFO - [2024-09-05 00:58:31,995] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:58:32,004] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.046 seconds
+[2024-09-05 00:59:02,438] {processor.py:153} INFO - Started process (PID=18663) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:59:02,438] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:59:02,438] {logging_mixin.py:115} INFO - [2024-09-05 00:59:02,438] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:59:02,445] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:59:02,461] {logging_mixin.py:115} INFO - [2024-09-05 00:59:02,461] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:59:02,475] {logging_mixin.py:115} INFO - [2024-09-05 00:59:02,475] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:59:02,483] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 00:59:32,940] {processor.py:153} INFO - Started process (PID=18702) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:59:32,940] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 00:59:32,941] {logging_mixin.py:115} INFO - [2024-09-05 00:59:32,941] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:59:32,948] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 00:59:32,963] {logging_mixin.py:115} INFO - [2024-09-05 00:59:32,963] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 00:59:32,975] {logging_mixin.py:115} INFO - [2024-09-05 00:59:32,975] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 00:59:32,984] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.047 seconds
+[2024-09-05 01:00:03,454] {processor.py:153} INFO - Started process (PID=18741) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:00:03,454] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 01:00:03,455] {logging_mixin.py:115} INFO - [2024-09-05 01:00:03,455] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:00:03,460] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:00:03,475] {logging_mixin.py:115} INFO - [2024-09-05 01:00:03,475] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 01:00:03,488] {logging_mixin.py:115} INFO - [2024-09-05 01:00:03,488] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 01:00:03,495] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 01:00:33,931] {processor.py:153} INFO - Started process (PID=18779) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:00:33,932] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 01:00:33,932] {logging_mixin.py:115} INFO - [2024-09-05 01:00:33,932] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:00:33,938] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:00:33,953] {logging_mixin.py:115} INFO - [2024-09-05 01:00:33,953] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 01:00:33,966] {logging_mixin.py:115} INFO - [2024-09-05 01:00:33,966] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 01:00:33,974] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 01:01:04,342] {processor.py:153} INFO - Started process (PID=18808) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:01:04,343] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 01:01:04,343] {logging_mixin.py:115} INFO - [2024-09-05 01:01:04,343] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:01:04,349] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:01:04,365] {logging_mixin.py:115} INFO - [2024-09-05 01:01:04,365] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 01:01:04,377] {logging_mixin.py:115} INFO - [2024-09-05 01:01:04,377] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 01:01:04,385] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.044 seconds
+[2024-09-05 01:01:34,820] {processor.py:153} INFO - Started process (PID=18847) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:01:34,821] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 01:01:34,821] {logging_mixin.py:115} INFO - [2024-09-05 01:01:34,821] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:01:34,827] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:01:34,849] {logging_mixin.py:115} INFO - [2024-09-05 01:01:34,848] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 01:01:34,863] {logging_mixin.py:115} INFO - [2024-09-05 01:01:34,863] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 01:01:34,872] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.054 seconds
+[2024-09-05 01:02:05,293] {processor.py:153} INFO - Started process (PID=18886) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:02:05,294] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 01:02:05,294] {logging_mixin.py:115} INFO - [2024-09-05 01:02:05,294] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:02:05,302] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:02:05,318] {logging_mixin.py:115} INFO - [2024-09-05 01:02:05,318] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 01:02:05,332] {logging_mixin.py:115} INFO - [2024-09-05 01:02:05,332] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 01:02:05,340] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.049 seconds
+[2024-09-05 01:02:35,834] {processor.py:153} INFO - Started process (PID=18925) to work on /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:02:35,834] {processor.py:641} INFO - Processing file /opt/airflow/dags/3-dependencies.py for tasks to queue
+[2024-09-05 01:02:35,834] {logging_mixin.py:115} INFO - [2024-09-05 01:02:35,834] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:02:35,840] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /opt/airflow/dags/3-dependencies.py
+[2024-09-05 01:02:35,860] {logging_mixin.py:115} INFO - [2024-09-05 01:02:35,860] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-05 01:02:35,874] {logging_mixin.py:115} INFO - [2024-09-05 01:02:35,874] {dag.py:2972} INFO - Setting next_dagrun for dependencies to 2024-05-20T00:00:00+00:00, run_after=2024-05-20T00:00:00+00:00
+[2024-09-05 01:02:35,884] {processor.py:161} INFO - Processing /opt/airflow/dags/3-dependencies.py took 0.053 seconds
