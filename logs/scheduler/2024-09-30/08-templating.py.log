@@ -1,0 +1,431 @@
+[2024-09-30 17:08:59,249] {processor.py:153} INFO - Started process (PID=6099) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:08:59,249] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:08:59,250] {logging_mixin.py:115} INFO - [2024-09-30 17:08:59,250] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:08:59,256] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:08:59,310] {logging_mixin.py:115} INFO - [2024-09-30 17:08:59,310] {manager.py:508} INFO - Created Permission View: can edit on DAG:8.templating
+[2024-09-30 17:08:59,316] {logging_mixin.py:115} INFO - [2024-09-30 17:08:59,316] {manager.py:508} INFO - Created Permission View: can delete on DAG:8.templating
+[2024-09-30 17:08:59,321] {logging_mixin.py:115} INFO - [2024-09-30 17:08:59,321] {manager.py:508} INFO - Created Permission View: can read on DAG:8.templating
+[2024-09-30 17:08:59,321] {logging_mixin.py:115} INFO - [2024-09-30 17:08:59,321] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:08:59,328] {logging_mixin.py:115} INFO - [2024-09-30 17:08:59,328] {dag.py:2439} INFO - Creating ORM DAG for 8.templating
+[2024-09-30 17:08:59,335] {logging_mixin.py:115} INFO - [2024-09-30 17:08:59,335] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:08:59,344] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.097 seconds
+[2024-09-30 17:09:04,277] {processor.py:153} INFO - Started process (PID=6100) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:04,278] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:09:04,278] {logging_mixin.py:115} INFO - [2024-09-30 17:09:04,278] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:04,285] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:04,294] {logging_mixin.py:115} INFO - [2024-09-30 17:09:04,294] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:09:04,309] {logging_mixin.py:115} INFO - [2024-09-30 17:09:04,309] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:09:04,317] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.042 seconds
+[2024-09-30 17:09:09,303] {processor.py:153} INFO - Started process (PID=6110) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:09,303] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:09:09,304] {logging_mixin.py:115} INFO - [2024-09-30 17:09:09,304] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:09,310] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:09,320] {logging_mixin.py:115} INFO - [2024-09-30 17:09:09,320] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:09:09,336] {logging_mixin.py:115} INFO - [2024-09-30 17:09:09,336] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:09:09,347] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.046 seconds
+[2024-09-30 17:09:17,708] {processor.py:153} INFO - Started process (PID=6123) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:17,709] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:09:17,709] {logging_mixin.py:115} INFO - [2024-09-30 17:09:17,709] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:17,716] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:17,725] {logging_mixin.py:115} INFO - [2024-09-30 17:09:17,725] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:09:17,743] {logging_mixin.py:115} INFO - [2024-09-30 17:09:17,743] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:09:17,753] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.047 seconds
+[2024-09-30 17:09:48,248] {processor.py:153} INFO - Started process (PID=6163) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:48,249] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:09:48,249] {logging_mixin.py:115} INFO - [2024-09-30 17:09:48,249] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:48,254] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:09:48,295] {logging_mixin.py:115} INFO - [2024-09-30 17:09:48,295] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:09:48,309] {logging_mixin.py:115} INFO - [2024-09-30 17:09:48,309] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:09:48,319] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.073 seconds
+[2024-09-30 17:10:18,798] {processor.py:153} INFO - Started process (PID=6203) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:10:18,798] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:10:18,799] {logging_mixin.py:115} INFO - [2024-09-30 17:10:18,798] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:10:18,805] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:10:18,822] {logging_mixin.py:115} INFO - [2024-09-30 17:10:18,822] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:10:18,836] {logging_mixin.py:115} INFO - [2024-09-30 17:10:18,835] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:10:18,859] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.064 seconds
+[2024-09-30 17:10:49,366] {processor.py:153} INFO - Started process (PID=6243) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:10:49,366] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:10:49,367] {logging_mixin.py:115} INFO - [2024-09-30 17:10:49,367] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:10:49,374] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:10:49,423] {logging_mixin.py:115} INFO - [2024-09-30 17:10:49,423] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:10:49,438] {logging_mixin.py:115} INFO - [2024-09-30 17:10:49,438] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:10:49,450] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.087 seconds
+[2024-09-30 17:11:19,956] {processor.py:153} INFO - Started process (PID=6283) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:11:19,956] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:11:19,957] {logging_mixin.py:115} INFO - [2024-09-30 17:11:19,957] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:11:19,964] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:11:19,982] {logging_mixin.py:115} INFO - [2024-09-30 17:11:19,982] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:11:19,997] {logging_mixin.py:115} INFO - [2024-09-30 17:11:19,997] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:11:20,005] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.052 seconds
+[2024-09-30 17:11:50,453] {processor.py:153} INFO - Started process (PID=6321) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:11:50,454] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:11:50,454] {logging_mixin.py:115} INFO - [2024-09-30 17:11:50,454] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:11:50,460] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:11:50,480] {logging_mixin.py:115} INFO - [2024-09-30 17:11:50,480] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:11:50,497] {logging_mixin.py:115} INFO - [2024-09-30 17:11:50,497] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:11:50,506] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.055 seconds
+[2024-09-30 17:12:21,035] {processor.py:153} INFO - Started process (PID=6354) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:12:21,035] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:12:21,036] {logging_mixin.py:115} INFO - [2024-09-30 17:12:21,036] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:12:21,041] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:12:21,060] {logging_mixin.py:115} INFO - [2024-09-30 17:12:21,060] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:12:21,076] {logging_mixin.py:115} INFO - [2024-09-30 17:12:21,076] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:12:21,085] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.052 seconds
+[2024-09-30 17:12:51,543] {processor.py:153} INFO - Started process (PID=6394) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:12:51,543] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:12:51,544] {logging_mixin.py:115} INFO - [2024-09-30 17:12:51,544] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:12:51,549] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:12:51,564] {logging_mixin.py:115} INFO - [2024-09-30 17:12:51,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:12:51,577] {logging_mixin.py:115} INFO - [2024-09-30 17:12:51,577] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:12:51,585] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:13:22,046] {processor.py:153} INFO - Started process (PID=6434) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:13:22,047] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:13:22,047] {logging_mixin.py:115} INFO - [2024-09-30 17:13:22,047] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:13:22,053] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:13:22,069] {logging_mixin.py:115} INFO - [2024-09-30 17:13:22,069] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:13:22,082] {logging_mixin.py:115} INFO - [2024-09-30 17:13:22,081] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:13:22,090] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.046 seconds
+[2024-09-30 17:13:52,539] {processor.py:153} INFO - Started process (PID=6474) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:13:52,540] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:13:52,540] {logging_mixin.py:115} INFO - [2024-09-30 17:13:52,540] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:13:52,546] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:13:52,561] {logging_mixin.py:115} INFO - [2024-09-30 17:13:52,561] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:13:52,575] {logging_mixin.py:115} INFO - [2024-09-30 17:13:52,575] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:13:52,583] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.046 seconds
+[2024-09-30 17:14:23,004] {processor.py:153} INFO - Started process (PID=6514) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:14:23,005] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:14:23,005] {logging_mixin.py:115} INFO - [2024-09-30 17:14:23,005] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:14:23,011] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:14:23,028] {logging_mixin.py:115} INFO - [2024-09-30 17:14:23,028] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:14:23,041] {logging_mixin.py:115} INFO - [2024-09-30 17:14:23,041] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:14:23,049] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.047 seconds
+[2024-09-30 17:14:53,518] {processor.py:153} INFO - Started process (PID=6545) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:14:53,518] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:14:53,518] {logging_mixin.py:115} INFO - [2024-09-30 17:14:53,518] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:14:53,523] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:14:53,539] {logging_mixin.py:115} INFO - [2024-09-30 17:14:53,539] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:14:53,551] {logging_mixin.py:115} INFO - [2024-09-30 17:14:53,551] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:14:53,559] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.043 seconds
+[2024-09-30 17:15:24,037] {processor.py:153} INFO - Started process (PID=6585) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:15:24,038] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:15:24,038] {logging_mixin.py:115} INFO - [2024-09-30 17:15:24,038] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:15:24,043] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:15:24,059] {logging_mixin.py:115} INFO - [2024-09-30 17:15:24,059] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:15:24,072] {logging_mixin.py:115} INFO - [2024-09-30 17:15:24,072] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:15:24,080] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:15:54,549] {processor.py:153} INFO - Started process (PID=6625) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:15:54,550] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:15:54,550] {logging_mixin.py:115} INFO - [2024-09-30 17:15:54,550] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:15:54,556] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:15:54,576] {logging_mixin.py:115} INFO - [2024-09-30 17:15:54,575] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:15:54,591] {logging_mixin.py:115} INFO - [2024-09-30 17:15:54,591] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:15:54,600] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.054 seconds
+[2024-09-30 17:16:25,087] {processor.py:153} INFO - Started process (PID=6664) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:16:25,087] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:16:25,088] {logging_mixin.py:115} INFO - [2024-09-30 17:16:25,088] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:16:25,094] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:16:25,110] {logging_mixin.py:115} INFO - [2024-09-30 17:16:25,110] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:16:25,123] {logging_mixin.py:115} INFO - [2024-09-30 17:16:25,122] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:16:25,149] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.064 seconds
+[2024-09-30 17:16:55,605] {processor.py:153} INFO - Started process (PID=6704) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:16:55,605] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:16:55,605] {logging_mixin.py:115} INFO - [2024-09-30 17:16:55,605] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:16:55,611] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:16:55,626] {logging_mixin.py:115} INFO - [2024-09-30 17:16:55,626] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:16:55,639] {logging_mixin.py:115} INFO - [2024-09-30 17:16:55,639] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:16:55,646] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.043 seconds
+[2024-09-30 17:17:26,111] {processor.py:153} INFO - Started process (PID=6744) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:17:26,111] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:17:26,111] {logging_mixin.py:115} INFO - [2024-09-30 17:17:26,111] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:17:26,116] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:17:26,133] {logging_mixin.py:115} INFO - [2024-09-30 17:17:26,133] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:17:26,149] {logging_mixin.py:115} INFO - [2024-09-30 17:17:26,149] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:17:26,157] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.049 seconds
+[2024-09-30 17:17:56,642] {processor.py:153} INFO - Started process (PID=6776) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:17:56,642] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:17:56,643] {logging_mixin.py:115} INFO - [2024-09-30 17:17:56,643] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:17:56,648] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:17:56,663] {logging_mixin.py:115} INFO - [2024-09-30 17:17:56,663] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:17:56,676] {logging_mixin.py:115} INFO - [2024-09-30 17:17:56,676] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:17:56,684] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:18:27,124] {processor.py:153} INFO - Started process (PID=6816) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:18:27,124] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:18:27,125] {logging_mixin.py:115} INFO - [2024-09-30 17:18:27,124] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:18:27,130] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:18:27,146] {logging_mixin.py:115} INFO - [2024-09-30 17:18:27,146] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:18:27,158] {logging_mixin.py:115} INFO - [2024-09-30 17:18:27,158] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:18:27,166] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:18:57,656] {processor.py:153} INFO - Started process (PID=6855) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:18:57,656] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:18:57,657] {logging_mixin.py:115} INFO - [2024-09-30 17:18:57,657] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:18:57,662] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:18:57,677] {logging_mixin.py:115} INFO - [2024-09-30 17:18:57,677] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:18:57,690] {logging_mixin.py:115} INFO - [2024-09-30 17:18:57,690] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:18:57,698] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:19:28,109] {processor.py:153} INFO - Started process (PID=6895) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:19:28,109] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:19:28,109] {logging_mixin.py:115} INFO - [2024-09-30 17:19:28,109] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:19:28,115] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:19:28,130] {logging_mixin.py:115} INFO - [2024-09-30 17:19:28,130] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:19:28,143] {logging_mixin.py:115} INFO - [2024-09-30 17:19:28,143] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:19:28,150] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:19:58,563] {processor.py:153} INFO - Started process (PID=6935) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:19:58,564] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:19:58,564] {logging_mixin.py:115} INFO - [2024-09-30 17:19:58,564] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:19:58,569] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:19:58,585] {logging_mixin.py:115} INFO - [2024-09-30 17:19:58,585] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:19:58,598] {logging_mixin.py:115} INFO - [2024-09-30 17:19:58,598] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:19:58,605] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:20:29,084] {processor.py:153} INFO - Started process (PID=6975) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:20:29,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:20:29,085] {logging_mixin.py:115} INFO - [2024-09-30 17:20:29,085] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:20:29,090] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:20:29,106] {logging_mixin.py:115} INFO - [2024-09-30 17:20:29,106] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:20:29,119] {logging_mixin.py:115} INFO - [2024-09-30 17:20:29,119] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:20:29,127] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:20:59,585] {processor.py:153} INFO - Started process (PID=7006) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:20:59,586] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:20:59,586] {logging_mixin.py:115} INFO - [2024-09-30 17:20:59,586] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:20:59,593] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:20:59,610] {logging_mixin.py:115} INFO - [2024-09-30 17:20:59,610] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:20:59,625] {logging_mixin.py:115} INFO - [2024-09-30 17:20:59,625] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:20:59,633] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.050 seconds
+[2024-09-30 17:21:30,101] {processor.py:153} INFO - Started process (PID=7046) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:21:30,102] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:21:30,102] {logging_mixin.py:115} INFO - [2024-09-30 17:21:30,102] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:21:30,111] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:21:30,128] {logging_mixin.py:115} INFO - [2024-09-30 17:21:30,128] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:21:30,143] {logging_mixin.py:115} INFO - [2024-09-30 17:21:30,143] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:21:30,152] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.054 seconds
+[2024-09-30 17:22:00,621] {processor.py:153} INFO - Started process (PID=7086) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:22:00,622] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:22:00,622] {logging_mixin.py:115} INFO - [2024-09-30 17:22:00,622] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:22:00,627] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:22:00,642] {logging_mixin.py:115} INFO - [2024-09-30 17:22:00,642] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:22:00,656] {logging_mixin.py:115} INFO - [2024-09-30 17:22:00,656] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:22:00,664] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:22:31,118] {processor.py:153} INFO - Started process (PID=7125) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:22:31,119] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:22:31,119] {logging_mixin.py:115} INFO - [2024-09-30 17:22:31,119] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:22:31,125] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:22:31,141] {logging_mixin.py:115} INFO - [2024-09-30 17:22:31,141] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:22:31,154] {logging_mixin.py:115} INFO - [2024-09-30 17:22:31,154] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:22:31,162] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.046 seconds
+[2024-09-30 17:23:01,631] {processor.py:153} INFO - Started process (PID=7165) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:23:01,631] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:23:01,632] {logging_mixin.py:115} INFO - [2024-09-30 17:23:01,632] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:23:01,637] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:23:01,653] {logging_mixin.py:115} INFO - [2024-09-30 17:23:01,653] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:23:01,666] {logging_mixin.py:115} INFO - [2024-09-30 17:23:01,666] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:23:01,673] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:23:32,138] {processor.py:153} INFO - Started process (PID=7204) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:23:32,139] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:23:32,139] {logging_mixin.py:115} INFO - [2024-09-30 17:23:32,139] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:23:32,145] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:23:32,161] {logging_mixin.py:115} INFO - [2024-09-30 17:23:32,160] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:23:32,173] {logging_mixin.py:115} INFO - [2024-09-30 17:23:32,173] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:23:32,181] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:24:02,590] {processor.py:153} INFO - Started process (PID=7235) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:24:02,591] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:24:02,592] {logging_mixin.py:115} INFO - [2024-09-30 17:24:02,592] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:24:02,598] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:24:02,614] {logging_mixin.py:115} INFO - [2024-09-30 17:24:02,614] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:24:02,626] {logging_mixin.py:115} INFO - [2024-09-30 17:24:02,626] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:24:02,634] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.046 seconds
+[2024-09-30 17:24:33,142] {processor.py:153} INFO - Started process (PID=7275) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:24:33,142] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:24:33,143] {logging_mixin.py:115} INFO - [2024-09-30 17:24:33,143] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:24:33,150] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:24:33,170] {logging_mixin.py:115} INFO - [2024-09-30 17:24:33,170] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:24:33,183] {logging_mixin.py:115} INFO - [2024-09-30 17:24:33,183] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:24:33,190] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.050 seconds
+[2024-09-30 17:25:03,645] {processor.py:153} INFO - Started process (PID=7315) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:25:03,645] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:25:03,645] {logging_mixin.py:115} INFO - [2024-09-30 17:25:03,645] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:25:03,650] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:25:03,667] {logging_mixin.py:115} INFO - [2024-09-30 17:25:03,667] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:25:03,680] {logging_mixin.py:115} INFO - [2024-09-30 17:25:03,680] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:25:03,688] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.046 seconds
+[2024-09-30 17:25:34,135] {processor.py:153} INFO - Started process (PID=7355) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:25:34,135] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:25:34,136] {logging_mixin.py:115} INFO - [2024-09-30 17:25:34,136] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:25:34,142] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:25:34,157] {logging_mixin.py:115} INFO - [2024-09-30 17:25:34,157] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:25:34,171] {logging_mixin.py:115} INFO - [2024-09-30 17:25:34,171] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:25:34,180] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.047 seconds
+[2024-09-30 17:26:04,645] {processor.py:153} INFO - Started process (PID=7394) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:26:04,645] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:26:04,646] {logging_mixin.py:115} INFO - [2024-09-30 17:26:04,646] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:26:04,652] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:26:04,667] {logging_mixin.py:115} INFO - [2024-09-30 17:26:04,667] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:26:04,680] {logging_mixin.py:115} INFO - [2024-09-30 17:26:04,680] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:26:04,687] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:26:35,115] {processor.py:153} INFO - Started process (PID=7434) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:26:35,115] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:26:35,116] {logging_mixin.py:115} INFO - [2024-09-30 17:26:35,116] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:26:35,124] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:26:35,141] {logging_mixin.py:115} INFO - [2024-09-30 17:26:35,141] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:26:35,154] {logging_mixin.py:115} INFO - [2024-09-30 17:26:35,154] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:26:35,161] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.048 seconds
+[2024-09-30 17:27:05,575] {processor.py:153} INFO - Started process (PID=7465) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:27:05,575] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:27:05,576] {logging_mixin.py:115} INFO - [2024-09-30 17:27:05,576] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:27:05,582] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:27:05,599] {logging_mixin.py:115} INFO - [2024-09-30 17:27:05,599] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:27:05,613] {logging_mixin.py:115} INFO - [2024-09-30 17:27:05,613] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:27:05,621] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.049 seconds
+[2024-09-30 17:27:36,127] {processor.py:153} INFO - Started process (PID=7505) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:27:36,127] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:27:36,128] {logging_mixin.py:115} INFO - [2024-09-30 17:27:36,128] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:27:36,133] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:27:36,152] {logging_mixin.py:115} INFO - [2024-09-30 17:27:36,152] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:27:36,167] {logging_mixin.py:115} INFO - [2024-09-30 17:27:36,167] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:27:36,175] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.050 seconds
+[2024-09-30 17:28:06,659] {processor.py:153} INFO - Started process (PID=7544) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:28:06,660] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:28:06,660] {logging_mixin.py:115} INFO - [2024-09-30 17:28:06,660] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:28:06,665] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:28:06,683] {logging_mixin.py:115} INFO - [2024-09-30 17:28:06,683] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:28:06,697] {logging_mixin.py:115} INFO - [2024-09-30 17:28:06,697] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:28:06,705] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.048 seconds
+[2024-09-30 17:28:37,149] {processor.py:153} INFO - Started process (PID=7584) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:28:37,150] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:28:37,150] {logging_mixin.py:115} INFO - [2024-09-30 17:28:37,150] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:28:37,156] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:28:37,171] {logging_mixin.py:115} INFO - [2024-09-30 17:28:37,171] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:28:37,184] {logging_mixin.py:115} INFO - [2024-09-30 17:28:37,184] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:28:37,192] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:29:07,686] {processor.py:153} INFO - Started process (PID=7624) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:29:07,686] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:29:07,687] {logging_mixin.py:115} INFO - [2024-09-30 17:29:07,686] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:29:07,692] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:29:07,708] {logging_mixin.py:115} INFO - [2024-09-30 17:29:07,708] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:29:07,722] {logging_mixin.py:115} INFO - [2024-09-30 17:29:07,722] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:29:07,729] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.046 seconds
+[2024-09-30 17:29:38,193] {processor.py:153} INFO - Started process (PID=7664) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:29:38,193] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:29:38,194] {logging_mixin.py:115} INFO - [2024-09-30 17:29:38,194] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:29:38,199] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:29:38,216] {logging_mixin.py:115} INFO - [2024-09-30 17:29:38,216] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:29:38,236] {logging_mixin.py:115} INFO - [2024-09-30 17:29:38,236] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:29:38,246] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.055 seconds
+[2024-09-30 17:30:08,747] {processor.py:153} INFO - Started process (PID=7695) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:30:08,748] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:30:08,748] {logging_mixin.py:115} INFO - [2024-09-30 17:30:08,748] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:30:08,753] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:30:08,770] {logging_mixin.py:115} INFO - [2024-09-30 17:30:08,769] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:30:08,782] {logging_mixin.py:115} INFO - [2024-09-30 17:30:08,782] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:30:08,789] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:30:39,294] {processor.py:153} INFO - Started process (PID=7734) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:30:39,294] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:30:39,294] {logging_mixin.py:115} INFO - [2024-09-30 17:30:39,294] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:30:39,300] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:30:39,316] {logging_mixin.py:115} INFO - [2024-09-30 17:30:39,316] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:30:39,331] {logging_mixin.py:115} INFO - [2024-09-30 17:30:39,330] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:30:39,338] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.047 seconds
+[2024-09-30 17:31:09,813] {processor.py:153} INFO - Started process (PID=7773) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:31:09,813] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:31:09,814] {logging_mixin.py:115} INFO - [2024-09-30 17:31:09,814] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:31:09,820] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:31:09,840] {logging_mixin.py:115} INFO - [2024-09-30 17:31:09,840] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:31:09,855] {logging_mixin.py:115} INFO - [2024-09-30 17:31:09,855] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:31:09,864] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.054 seconds
+[2024-09-30 17:31:40,338] {processor.py:153} INFO - Started process (PID=7813) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:31:40,338] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:31:40,339] {logging_mixin.py:115} INFO - [2024-09-30 17:31:40,339] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:31:40,345] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:31:40,362] {logging_mixin.py:115} INFO - [2024-09-30 17:31:40,362] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:31:40,377] {logging_mixin.py:115} INFO - [2024-09-30 17:31:40,377] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:31:40,386] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.051 seconds
+[2024-09-30 17:32:10,879] {processor.py:153} INFO - Started process (PID=7852) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:32:10,879] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:32:10,880] {logging_mixin.py:115} INFO - [2024-09-30 17:32:10,880] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:32:10,885] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:32:10,905] {logging_mixin.py:115} INFO - [2024-09-30 17:32:10,905] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:32:10,921] {logging_mixin.py:115} INFO - [2024-09-30 17:32:10,921] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:32:10,930] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.053 seconds
+[2024-09-30 17:32:41,462] {processor.py:153} INFO - Started process (PID=7890) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:32:41,462] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:32:41,463] {logging_mixin.py:115} INFO - [2024-09-30 17:32:41,463] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:32:41,468] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:32:41,487] {logging_mixin.py:115} INFO - [2024-09-30 17:32:41,487] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:32:41,502] {logging_mixin.py:115} INFO - [2024-09-30 17:32:41,502] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:32:41,512] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.053 seconds
+[2024-09-30 17:33:11,979] {processor.py:153} INFO - Started process (PID=7923) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:33:11,979] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:33:11,980] {logging_mixin.py:115} INFO - [2024-09-30 17:33:11,980] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:33:11,985] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:33:12,000] {logging_mixin.py:115} INFO - [2024-09-30 17:33:12,000] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:33:12,013] {logging_mixin.py:115} INFO - [2024-09-30 17:33:12,013] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:33:12,021] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:33:42,435] {processor.py:153} INFO - Started process (PID=7962) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:33:42,436] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:33:42,436] {logging_mixin.py:115} INFO - [2024-09-30 17:33:42,436] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:33:42,442] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:33:42,457] {logging_mixin.py:115} INFO - [2024-09-30 17:33:42,457] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:33:42,471] {logging_mixin.py:115} INFO - [2024-09-30 17:33:42,470] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:33:42,478] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:34:12,946] {processor.py:153} INFO - Started process (PID=8001) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:34:12,946] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:34:12,947] {logging_mixin.py:115} INFO - [2024-09-30 17:34:12,947] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:34:12,953] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:34:12,968] {logging_mixin.py:115} INFO - [2024-09-30 17:34:12,968] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:34:12,981] {logging_mixin.py:115} INFO - [2024-09-30 17:34:12,981] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:34:12,990] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.046 seconds
+[2024-09-30 17:34:43,447] {processor.py:153} INFO - Started process (PID=8041) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:34:43,448] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:34:43,448] {logging_mixin.py:115} INFO - [2024-09-30 17:34:43,448] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:34:43,456] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:34:43,476] {logging_mixin.py:115} INFO - [2024-09-30 17:34:43,476] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:34:43,493] {logging_mixin.py:115} INFO - [2024-09-30 17:34:43,493] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:34:43,502] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.057 seconds
+[2024-09-30 17:35:13,947] {processor.py:153} INFO - Started process (PID=8081) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:35:13,948] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:35:13,948] {logging_mixin.py:115} INFO - [2024-09-30 17:35:13,948] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:35:13,953] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:35:13,970] {logging_mixin.py:115} INFO - [2024-09-30 17:35:13,970] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:35:13,983] {logging_mixin.py:115} INFO - [2024-09-30 17:35:13,983] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:35:13,992] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.047 seconds
+[2024-09-30 17:35:44,476] {processor.py:153} INFO - Started process (PID=8112) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:35:44,477] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:35:44,477] {logging_mixin.py:115} INFO - [2024-09-30 17:35:44,477] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:35:44,482] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:35:44,498] {logging_mixin.py:115} INFO - [2024-09-30 17:35:44,498] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:35:44,511] {logging_mixin.py:115} INFO - [2024-09-30 17:35:44,511] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:35:44,518] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:36:14,950] {processor.py:153} INFO - Started process (PID=8152) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:36:14,950] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:36:14,950] {logging_mixin.py:115} INFO - [2024-09-30 17:36:14,950] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:36:14,956] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:36:14,971] {logging_mixin.py:115} INFO - [2024-09-30 17:36:14,971] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:36:14,985] {logging_mixin.py:115} INFO - [2024-09-30 17:36:14,985] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:36:14,993] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:36:45,466] {processor.py:153} INFO - Started process (PID=8191) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:36:45,467] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:36:45,467] {logging_mixin.py:115} INFO - [2024-09-30 17:36:45,467] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:36:45,473] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:36:45,489] {logging_mixin.py:115} INFO - [2024-09-30 17:36:45,489] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:36:45,502] {logging_mixin.py:115} INFO - [2024-09-30 17:36:45,502] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:36:45,510] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:37:15,980] {processor.py:153} INFO - Started process (PID=8231) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:37:15,980] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:37:15,981] {logging_mixin.py:115} INFO - [2024-09-30 17:37:15,981] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:37:15,986] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:37:16,002] {logging_mixin.py:115} INFO - [2024-09-30 17:37:16,002] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:37:16,015] {logging_mixin.py:115} INFO - [2024-09-30 17:37:16,015] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:37:16,023] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
+[2024-09-30 17:37:46,492] {processor.py:153} INFO - Started process (PID=8270) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:37:46,492] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:37:46,493] {logging_mixin.py:115} INFO - [2024-09-30 17:37:46,493] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:37:46,498] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:37:46,514] {logging_mixin.py:115} INFO - [2024-09-30 17:37:46,513] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:37:46,527] {logging_mixin.py:115} INFO - [2024-09-30 17:37:46,527] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:37:46,534] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.044 seconds
+[2024-09-30 17:38:16,990] {processor.py:153} INFO - Started process (PID=8310) to work on /opt/airflow/dags/08-templating.py
+[2024-09-30 17:38:16,990] {processor.py:641} INFO - Processing file /opt/airflow/dags/08-templating.py for tasks to queue
+[2024-09-30 17:38:16,990] {logging_mixin.py:115} INFO - [2024-09-30 17:38:16,990] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:38:16,995] {processor.py:651} INFO - DAG(s) dict_keys(['8.templating']) retrieved from /opt/airflow/dags/08-templating.py
+[2024-09-30 17:38:17,011] {logging_mixin.py:115} INFO - [2024-09-30 17:38:17,011] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-30 17:38:17,024] {logging_mixin.py:115} INFO - [2024-09-30 17:38:17,024] {dag.py:2972} INFO - Setting next_dagrun for 8.templating to 2024-09-30T00:00:00+00:00, run_after=2024-10-01T00:00:00+00:00
+[2024-09-30 17:38:17,032] {processor.py:161} INFO - Processing /opt/airflow/dags/08-templating.py took 0.045 seconds
