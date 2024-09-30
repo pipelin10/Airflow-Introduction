@@ -1,0 +1,28 @@
+[2024-09-30 17:43:06,350] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 9-xcom.t1 scheduled__2024-09-30T00:00:00+00:00 [queued]>
+[2024-09-30 17:43:06,358] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 9-xcom.t1 scheduled__2024-09-30T00:00:00+00:00 [queued]>
+[2024-09-30 17:43:06,358] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-30 17:43:06,358] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2024-09-30 17:43:06,358] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-30 17:43:06,367] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): t1> on 2024-09-30 00:00:00+00:00
+[2024-09-30 17:43:06,370] {standard_task_runner.py:52} INFO - Started process 5823 to run task
+[2024-09-30 17:43:06,372] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', '9-xcom', 't1', 'scheduled__2024-09-30T00:00:00+00:00', '--job-id', '480', '--raw', '--subdir', 'DAGS_FOLDER/9-xcom.py', '--cfg-path', '/tmp/tmpsifo9s5l', '--error-file', '/tmp/tmp__tym6jd']
+[2024-09-30 17:43:06,372] {standard_task_runner.py:80} INFO - Job 480: Subtask t1
+[2024-09-30 17:43:06,420] {task_command.py:371} INFO - Running <TaskInstance: 9-xcom.t1 scheduled__2024-09-30T00:00:00+00:00 [running]> on host edb2a5494af7
+[2024-09-30 17:43:06,472] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=9-xcom
+AIRFLOW_CTX_TASK_ID=t1
+AIRFLOW_CTX_EXECUTION_DATE=2024-09-30T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-09-30T00:00:00+00:00
+[2024-09-30 17:43:06,473] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2024-09-30 17:43:06,473] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'sleep 5 && echo $((3*8))']
+[2024-09-30 17:43:06,479] {subprocess.py:85} INFO - Output:
+[2024-09-30 17:43:11,485] {subprocess.py:92} INFO - 24
+[2024-09-30 17:43:11,486] {subprocess.py:96} INFO - Command exited with return code 0
+[2024-09-30 17:43:11,508] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=9-xcom, task_id=t1, execution_date=20240930T000000, start_date=20240930T174306, end_date=20240930T174311
+[2024-09-30 17:43:11,550] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-30 17:43:11,573] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check
